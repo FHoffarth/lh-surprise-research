@@ -1,0 +1,861 @@
+[
+  {
+    "destination": "Florenz",
+    "iata": "FLR",
+    "classification": "strong_fit",
+    "score": 290,
+    "outbound_count": 5,
+    "return_count": 5,
+    "outbound_flights": [
+      {
+        "flight_number": "Air Dolomiti EN 8854",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 11:10",
+        "arrival_time": "2026-08-07 12:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8856",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:20",
+        "arrival_time": "2026-08-07 14:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8858",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:50",
+        "arrival_time": "2026-08-07 18:30",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8852",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 07:50",
+        "arrival_time": "2026-08-07 09:30",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8860",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 21:10",
+        "arrival_time": "2026-08-07 22:50",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Air Dolomiti EN 8855",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 13:50",
+        "arrival_time": "2026-08-09 15:30",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8853",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 10:15",
+        "arrival_time": "2026-08-09 11:55",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8859",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 19:10",
+        "arrival_time": "2026-08-09 20:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8861",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:30",
+        "arrival_time": "2026-08-09 08:10",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8857",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 14:20",
+        "arrival_time": "2026-08-09 16:00",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Prag",
+    "iata": "PRG",
+    "classification": "strong_fit",
+    "score": 290,
+    "outbound_count": 8,
+    "return_count": 8,
+    "outbound_flights": [
+      {
+        "flight_number": "Condor DE 4411",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:25",
+        "arrival_time": "2026-08-07 21:25",
+        "duration": ""
+      },
+      {
+        "flight_number": "Condor DE 4409",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 09:40",
+        "arrival_time": "2026-08-07 10:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Condor DE 4407",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 15:00",
+        "arrival_time": "2026-08-07 16:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1392",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 07:30",
+        "arrival_time": "2026-08-07 08:30",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1394",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:00",
+        "arrival_time": "2026-08-07 11:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1396",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:40",
+        "arrival_time": "2026-08-07 13:40",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1400",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:45",
+        "arrival_time": "2026-08-07 17:45",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1402",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 22:15",
+        "arrival_time": "2026-08-07 23:15",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Condor DE 4406",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 08:50",
+        "arrival_time": "2026-08-09 09:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1395",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 11:45",
+        "arrival_time": "2026-08-09 12:55",
+        "duration": ""
+      },
+      {
+        "flight_number": "Condor DE 4410",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 12:00",
+        "arrival_time": "2026-08-09 13:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Condor DE 4408",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 17:00",
+        "arrival_time": "2026-08-09 18:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1393",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 09:10",
+        "arrival_time": "2026-08-09 10:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1401",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 18:40",
+        "arrival_time": "2026-08-09 19:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1403",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:10",
+        "arrival_time": "2026-08-09 07:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1397",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 14:10",
+        "arrival_time": "2026-08-09 15:20",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Warschau",
+    "iata": "WAW",
+    "classification": "strong_fit",
+    "score": 200,
+    "outbound_count": 7,
+    "return_count": 6,
+    "outbound_flights": [
+      {
+        "flight_number": "LOT LO 378",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 17:30",
+        "arrival_time": "2026-08-07 19:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "LOT LO 380",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 19:50",
+        "arrival_time": "2026-08-07 21:35",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1346",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 07:10",
+        "arrival_time": "2026-08-07 08:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1348",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 11:50",
+        "arrival_time": "2026-08-07 13:30",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1350",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:40",
+        "arrival_time": "2026-08-07 18:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1352",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:45",
+        "arrival_time": "2026-08-07 22:25",
+        "duration": ""
+      },
+      {
+        "flight_number": "LOT LO 382",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:35",
+        "arrival_time": "2026-08-07 12:25",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "LOT LO 381",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 07:40",
+        "arrival_time": "2026-08-09 09:40",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1351",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 19:10",
+        "arrival_time": "2026-08-09 21:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1347",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 09:40",
+        "arrival_time": "2026-08-09 11:30",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1353",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:40",
+        "arrival_time": "2026-08-09 08:30",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1349",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 14:25",
+        "arrival_time": "2026-08-09 16:15",
+        "duration": ""
+      },
+      {
+        "flight_number": "LOT LO 379",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 17:00",
+        "arrival_time": "2026-08-09 19:00",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Krakau",
+    "iata": "KRK",
+    "classification": "strong_fit",
+    "score": 200,
+    "outbound_count": 4,
+    "return_count": 4,
+    "outbound_flights": [
+      {
+        "flight_number": "Lufthansa LH 1362",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 09:00",
+        "arrival_time": "2026-08-07 10:35",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1368",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 17:00",
+        "arrival_time": "2026-08-07 18:35",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1370",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 22:15",
+        "arrival_time": "2026-08-07 23:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1364",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:40",
+        "arrival_time": "2026-08-07 12:15",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Lufthansa LH 1371",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:00",
+        "arrival_time": "2026-08-09 07:40",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1369",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 19:30",
+        "arrival_time": "2026-08-09 21:10",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1363",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 11:10",
+        "arrival_time": "2026-08-09 12:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1365",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 13:20",
+        "arrival_time": "2026-08-09 15:00",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Bologna",
+    "iata": "BLQ",
+    "classification": "strong_fit",
+    "score": 160,
+    "outbound_count": 4,
+    "return_count": 3,
+    "outbound_flights": [
+      {
+        "flight_number": "Lufthansa LH 282",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 08:20",
+        "arrival_time": "2026-08-07 09:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8880",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:30",
+        "arrival_time": "2026-08-07 14:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 286",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:20",
+        "arrival_time": "2026-08-07 17:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8884",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 22:10",
+        "arrival_time": "2026-08-07 23:40",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Lufthansa LH 287",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 18:30",
+        "arrival_time": "2026-08-09 20:05",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8885",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:10",
+        "arrival_time": "2026-08-09 07:45",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8881",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 14:45",
+        "arrival_time": "2026-08-09 16:20",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Helsinki",
+    "iata": "HEL",
+    "classification": "strong_fit",
+    "score": 130,
+    "outbound_count": 5,
+    "return_count": 4,
+    "outbound_flights": [
+      {
+        "flight_number": "Finnair AY 1416",
+        "airline": "Finnair",
+        "marketing_carrier": "Finnair",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 19:20",
+        "arrival_time": "2026-08-07 22:45",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 848",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 09:35",
+        "arrival_time": "2026-08-07 13:05",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 852",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 21:10",
+        "arrival_time": "2026-08-08 00:40",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa City Airlines VL 850",
+        "airline": "Lufthansa City Airlines",
+        "marketing_carrier": "Lufthansa City Airlines",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 13:40",
+        "arrival_time": "2026-08-07 17:10",
+        "duration": ""
+      },
+      {
+        "flight_number": "Finnair AY 1412",
+        "airline": "Finnair",
+        "marketing_carrier": "Finnair",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 11:30",
+        "arrival_time": "2026-08-07 14:55",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Finnair AY 1411",
+        "airline": "Finnair",
+        "marketing_carrier": "Finnair",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 07:40",
+        "arrival_time": "2026-08-09 09:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa City Airlines VL 853",
+        "airline": "Lufthansa City Airlines",
+        "marketing_carrier": "Lufthansa City Airlines",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:45",
+        "arrival_time": "2026-08-09 08:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa City Airlines VL 849",
+        "airline": "Lufthansa City Airlines",
+        "marketing_carrier": "Lufthansa City Airlines",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 13:45",
+        "arrival_time": "2026-08-09 15:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa City Airlines VL 851",
+        "airline": "Lufthansa City Airlines",
+        "marketing_carrier": "Lufthansa City Airlines",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 18:15",
+        "arrival_time": "2026-08-09 19:50",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Breslau",
+    "iata": "WRO",
+    "classification": "strong_fit",
+    "score": 120,
+    "outbound_count": 3,
+    "return_count": 3,
+    "outbound_flights": [
+      {
+        "flight_number": "Air Dolomiti EN 8766",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 08:20",
+        "arrival_time": "2026-08-07 09:45",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1374",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:50",
+        "arrival_time": "2026-08-07 14:15",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1376",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:30",
+        "arrival_time": "2026-08-07 21:55",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Lufthansa LH 1377",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:25",
+        "arrival_time": "2026-08-09 07:50",
+        "duration": ""
+      },
+      {
+        "flight_number": "Air Dolomiti EN 8767",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 10:30",
+        "arrival_time": "2026-08-09 11:55",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1375",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 14:40",
+        "arrival_time": "2026-08-09 16:05",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Basel",
+    "iata": "BSL",
+    "classification": "strong_fit",
+    "score": 120,
+    "outbound_count": 3,
+    "return_count": 3,
+    "outbound_flights": [
+      {
+        "flight_number": "Lufthansa LH 1202",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 09:35",
+        "arrival_time": "2026-08-07 10:35",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1204",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:55",
+        "arrival_time": "2026-08-07 13:55",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1208",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 22:00",
+        "arrival_time": "2026-08-07 23:00",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Lufthansa LH 1203",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 11:00",
+        "arrival_time": "2026-08-09 12:00",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1205",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 14:40",
+        "arrival_time": "2026-08-09 15:40",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1209",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:00",
+        "arrival_time": "2026-08-09 07:00",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Sarajevo",
+    "iata": "SJJ",
+    "classification": "strong_fit",
+    "score": 60,
+    "outbound_count": 2,
+    "return_count": 2,
+    "outbound_flights": [
+      {
+        "flight_number": "Lufthansa LH 1546",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:25",
+        "arrival_time": "2026-08-07 22:10",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1544",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:10",
+        "arrival_time": "2026-08-07 11:55",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Lufthansa LH 1545",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 11:25",
+        "arrival_time": "2026-08-09 13:20",
+        "duration": ""
+      },
+      {
+        "flight_number": "Lufthansa LH 1547",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 06:15",
+        "arrival_time": "2026-08-09 08:10",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Pula",
+    "iata": "PUY",
+    "classification": "fragile",
+    "score": 30,
+    "outbound_count": 1,
+    "return_count": 1,
+    "outbound_flights": [
+      {
+        "flight_number": "Lufthansa LH 1398",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 17:00",
+        "arrival_time": "2026-08-07 18:30",
+        "duration": ""
+      }
+    ],
+    "return_flights": [
+      {
+        "flight_number": "Lufthansa LH 1399",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-09 19:20",
+        "arrival_time": "2026-08-09 20:50",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "destination": "Mailand",
+    "iata": "MIL",
+    "classification": "no_match",
+    "score": 0,
+    "outbound_count": 0,
+    "return_count": 0,
+    "outbound_flights": [],
+    "return_flights": []
+  }
+]

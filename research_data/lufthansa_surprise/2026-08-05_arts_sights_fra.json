@@ -1,0 +1,72 @@
+[
+  {
+    "observed_at": "2026-08-03T19:19:52Z",
+    "search_fingerprint": "baseline_11_active",
+    "active_destinations": ["FLR", "PRG", "WAW", "WRO", "HEL", "BLQ", "KRK", "BSL", "SJJ", "LIN", "PUY"],
+    "inactive_destinations": [],
+    "price_eur": 129.00,
+    "data_origin": "live_browser_observation",
+    "run_id": "arts_sights_fra_baseline",
+    "notes": "Base price for Arts & Culture pool with all destinations active"
+  },
+  {
+    "observed_at": "2026-08-03T19:22:07Z",
+    "search_fingerprint": "loo_standard",
+    "active_destinations": ["PRG", "WAW", "WRO", "HEL", "BLQ", "KRK", "BSL", "SJJ", "LIN", "PUY"],
+    "inactive_destinations": ["FLR"],
+    "price_eur": 138.58,
+    "data_origin": "live_browser_observation",
+    "run_id": "arts_sights_fra_loo_flr",
+    "notes": "Standard Leave-one-out premium markup"
+  },
+  {
+    "observed_at": "2026-08-03T19:28:13Z",
+    "search_fingerprint": "loo_without_lin",
+    "active_destinations": ["FLR", "PRG", "WAW", "WRO", "HEL", "BLQ", "KRK", "BSL", "SJJ", "PUY"],
+    "inactive_destinations": ["LIN"],
+    "price_eur": 140.32,
+    "data_origin": "live_browser_observation",
+    "run_id": "arts_sights_fra_loo_lin",
+    "notes": "Special Premium for de-selecting LIN (Milan Linate)"
+  },
+  {
+    "observed_at": "2026-08-04T22:07:24Z",
+    "search_fingerprint": "k2_deactivated",
+    "active_destinations": ["WAW", "WRO", "HEL", "BLQ", "KRK", "BSL", "SJJ", "LIN", "PUY"],
+    "inactive_destinations": ["FLR", "PRG"],
+    "price_eur": 144.56,
+    "data_origin": "live_browser_observation",
+    "run_id": "arts_sights_fra_k2",
+    "notes": "Observed price with 2 targets deactivated"
+  },
+  {
+    "observed_at": "2026-08-04T22:08:03Z",
+    "search_fingerprint": "k3_deactivated",
+    "active_destinations": ["WRO", "HEL", "BLQ", "KRK", "BSL", "SJJ", "LIN", "PUY"],
+    "inactive_destinations": ["FLR", "PRG", "WAW"],
+    "price_eur": 149.67,
+    "data_origin": "live_browser_observation",
+    "run_id": "arts_sights_fra_k3",
+    "notes": "Observed price with 3 targets deactivated"
+  },
+  {
+    "observed_at": "2026-08-03T19:37:41Z",
+    "search_fingerprint": "three_active_subset1",
+    "active_destinations": ["FLR", "PRG", "WAW"],
+    "inactive_destinations": ["WRO", "HEL", "BLQ", "KRK", "BSL", "SJJ", "LIN", "PUY"],
+    "price_eur": 177.52,
+    "data_origin": "live_browser_observation",
+    "run_id": "arts_sights_fra_3active_subset1",
+    "notes": "Three active targets configuration 1"
+  },
+  {
+    "observed_at": "2026-08-03T19:38:15Z",
+    "search_fingerprint": "three_active_subset2",
+    "active_destinations": ["HEL", "BLQ", "KRK"],
+    "inactive_destinations": ["FLR", "PRG", "WAW", "WRO", "BSL", "SJJ", "LIN", "PUY"],
+    "price_eur": 204.89,
+    "data_origin": "live_browser_observation",
+    "run_id": "arts_sights_fra_3active_subset2",
+    "notes": "Three active targets configuration 2"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "pair": {
+      "A": "BSL",
+      "B": "SJJ",
+      "C": "FLR"
+    },
+    "step1": {
+      "status": "available",
+      "price": "214,03€",
+      "payload_targets": [
+        "BSL",
+        "SJJ",
+        "PUY"
+      ],
+      "cb_verified": true
+    },
+    "step2": {
+      "status": "available",
+      "price": null,
+      "payload_targets": [
+        "FLR",
+        "BSL",
+        "SJJ"
+      ],
+      "cb_verified": true
+    },
+    "step3": {
+      "status": "available",
+      "price": "214,03€",
+      "payload_targets": [
+        "BSL",
+        "SJJ",
+        "PUY"
+      ],
+      "cb_verified": true
+    }
+  },
+  {
+    "pair": {
+      "A": "WRO",
+      "B": "SJJ",
+      "C": "PRG"
+    },
+    "step1": {
+      "status": "available",
+      "price": null,
+      "payload_targets": [
+        "WRO",
+        "SJJ",
+        "PUY"
+      ],
+      "cb_verified": true
+    },
+    "step2": {
+      "status": "available",
+      "price": null,
+      "payload_targets": [
+        "PRG",
+        "WRO",
+        "SJJ"
+      ],
+      "cb_verified": true
+    },
+    "step3": {
+      "status": "available",
+      "price": null,
+      "payload_targets": [
+        "WRO",
+        "SJJ",
+        "PUY"
+      ],
+      "cb_verified": true
+    }
+  },
+  {
+    "pair": {
+      "A": "BSL",
+      "B": "WRO",
+      "C": "WAW"
+    },
+    "step1": {
+      "status": "available",
+      "price": null,
+      "payload_targets": [
+        "WRO",
+        "BSL",
+        "PUY"
+      ],
+      "cb_verified": true
+    },
+    "step2": {
+      "status": "available",
+      "price": "177,53€",
+      "payload_targets": [
+        "WAW",
+        "WRO",
+        "BSL"
+      ],
+      "cb_verified": true
+    },
+    "step3": {
+      "status": "available",
+      "price": null,
+      "payload_targets": [
+        "WRO",
+        "BSL",
+        "PUY"
+      ],
+      "cb_verified": true
+    }
+  }
+]

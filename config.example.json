@@ -1,0 +1,22 @@
+{
+  "origin": "FRA",
+  "departure": "2026-08-07",
+  "return_date": "2026-08-09",
+  "adults": 1,
+  "headless": false,
+  "language": "de",
+  "currency": "EUR",
+  "output_dir": "artifacts",
+  "smoke_test_only": true,
+  "pride_cities": [
+    "Amsterdam",
+    "Prag",
+    "Antwerpen",
+    "Reykjavik",
+    "Reykjavík",
+    "Nürnberg",
+    "Nuernberg",
+    "Braunschweig",
+    "Kopenhagen"
+  ]
+}

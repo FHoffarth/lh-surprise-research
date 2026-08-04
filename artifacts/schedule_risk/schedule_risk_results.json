@@ -1,0 +1,341 @@
+{
+  "PRG": {
+    "destination": "Prag",
+    "all_outbound_flights": [
+      {
+        "flight_number": "Condor DE 4411",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:25",
+        "arrival_time": "2026-08-07 21:25"
+      },
+      {
+        "flight_number": "Condor DE 4409",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 09:40",
+        "arrival_time": "2026-08-07 10:50"
+      },
+      {
+        "flight_number": "Condor DE 4407",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 15:00",
+        "arrival_time": "2026-08-07 16:00"
+      },
+      {
+        "flight_number": "Lufthansa LH 1392",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 07:30",
+        "arrival_time": "2026-08-07 08:30"
+      },
+      {
+        "flight_number": "Lufthansa LH 1394",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:00",
+        "arrival_time": "2026-08-07 11:00"
+      },
+      {
+        "flight_number": "Lufthansa LH 1396",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:40",
+        "arrival_time": "2026-08-07 13:40"
+      },
+      {
+        "flight_number": "Lufthansa LH 1400",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:45",
+        "arrival_time": "2026-08-07 17:45"
+      },
+      {
+        "flight_number": "Lufthansa LH 1402",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 22:15",
+        "arrival_time": "2026-08-07 23:15"
+      }
+    ],
+    "acceptable_outbound_flights": [
+      {
+        "flight_number": "Condor DE 4411",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:25",
+        "arrival_time": "2026-08-07 21:25"
+      },
+      {
+        "flight_number": "Condor DE 4407",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 15:00",
+        "arrival_time": "2026-08-07 16:00"
+      },
+      {
+        "flight_number": "Lufthansa LH 1400",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:45",
+        "arrival_time": "2026-08-07 17:45"
+      },
+      {
+        "flight_number": "Lufthansa LH 1402",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 22:15",
+        "arrival_time": "2026-08-07 23:15"
+      }
+    ],
+    "unacceptable_outbound_flights": [
+      {
+        "flight_number": "Condor DE 4409",
+        "airline": "Condor",
+        "marketing_carrier": "Condor",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 09:40",
+        "arrival_time": "2026-08-07 10:50"
+      },
+      {
+        "flight_number": "Lufthansa LH 1392",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 07:30",
+        "arrival_time": "2026-08-07 08:30"
+      },
+      {
+        "flight_number": "Lufthansa LH 1394",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:00",
+        "arrival_time": "2026-08-07 11:00"
+      },
+      {
+        "flight_number": "Lufthansa LH 1396",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:40",
+        "arrival_time": "2026-08-07 13:40"
+      }
+    ],
+    "earliest_acceptable_outbound": "14:00",
+    "risk_classification": "mixed",
+    "recommendation": "EXCLUDE",
+    "reasons": [
+      "Mixed flight schedule: 4 acceptable flight(s), but 4 flight(s) depart too early (before 14:00)"
+    ],
+    "uncertainty_notes": "Lufthansa Surprise could assign an unacceptable early flight segment.",
+    "iata": "PRG"
+  },
+  "WAW": {
+    "destination": "Warschau",
+    "all_outbound_flights": [
+      {
+        "flight_number": "LOT LO 378",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 17:30",
+        "arrival_time": "2026-08-07 19:20"
+      },
+      {
+        "flight_number": "LOT LO 380",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 19:50",
+        "arrival_time": "2026-08-07 21:35"
+      },
+      {
+        "flight_number": "Lufthansa LH 1346",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 07:10",
+        "arrival_time": "2026-08-07 08:50"
+      },
+      {
+        "flight_number": "Lufthansa LH 1348",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 11:50",
+        "arrival_time": "2026-08-07 13:30"
+      },
+      {
+        "flight_number": "Lufthansa LH 1350",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:40",
+        "arrival_time": "2026-08-07 18:20"
+      },
+      {
+        "flight_number": "Lufthansa LH 1352",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:45",
+        "arrival_time": "2026-08-07 22:25"
+      },
+      {
+        "flight_number": "LOT LO 382",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:35",
+        "arrival_time": "2026-08-07 12:25"
+      }
+    ],
+    "acceptable_outbound_flights": [
+      {
+        "flight_number": "LOT LO 378",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 17:30",
+        "arrival_time": "2026-08-07 19:20"
+      },
+      {
+        "flight_number": "LOT LO 380",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 19:50",
+        "arrival_time": "2026-08-07 21:35"
+      },
+      {
+        "flight_number": "Lufthansa LH 1350",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 16:40",
+        "arrival_time": "2026-08-07 18:20"
+      },
+      {
+        "flight_number": "Lufthansa LH 1352",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:45",
+        "arrival_time": "2026-08-07 22:25"
+      }
+    ],
+    "unacceptable_outbound_flights": [
+      {
+        "flight_number": "Lufthansa LH 1346",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 07:10",
+        "arrival_time": "2026-08-07 08:50"
+      },
+      {
+        "flight_number": "Lufthansa LH 1348",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 11:50",
+        "arrival_time": "2026-08-07 13:30"
+      },
+      {
+        "flight_number": "LOT LO 382",
+        "airline": "LOT",
+        "marketing_carrier": "LOT",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 10:35",
+        "arrival_time": "2026-08-07 12:25"
+      }
+    ],
+    "earliest_acceptable_outbound": "14:00",
+    "risk_classification": "mixed",
+    "recommendation": "EXCLUDE",
+    "reasons": [
+      "Mixed flight schedule: 4 acceptable flight(s), but 3 flight(s) depart too early (before 14:00)"
+    ],
+    "uncertainty_notes": "Lufthansa Surprise could assign an unacceptable early flight segment.",
+    "iata": "WAW"
+  },
+  "WRO": {
+    "destination": "Breslau",
+    "all_outbound_flights": [
+      {
+        "flight_number": "Air Dolomiti EN 8766",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 08:20",
+        "arrival_time": "2026-08-07 09:45"
+      },
+      {
+        "flight_number": "Lufthansa LH 1374",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:50",
+        "arrival_time": "2026-08-07 14:15"
+      },
+      {
+        "flight_number": "Lufthansa LH 1376",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:30",
+        "arrival_time": "2026-08-07 21:55"
+      }
+    ],
+    "acceptable_outbound_flights": [
+      {
+        "flight_number": "Lufthansa LH 1376",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 20:30",
+        "arrival_time": "2026-08-07 21:55"
+      }
+    ],
+    "unacceptable_outbound_flights": [
+      {
+        "flight_number": "Air Dolomiti EN 8766",
+        "airline": "Air Dolomiti",
+        "marketing_carrier": "Air Dolomiti",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 08:20",
+        "arrival_time": "2026-08-07 09:45"
+      },
+      {
+        "flight_number": "Lufthansa LH 1374",
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "departure_time": "2026-08-07 12:50",
+        "arrival_time": "2026-08-07 14:15"
+      }
+    ],
+    "earliest_acceptable_outbound": "14:00",
+    "risk_classification": "mixed",
+    "recommendation": "EXCLUDE",
+    "reasons": [
+      "Mixed flight schedule: 1 acceptable flight(s), but 2 flight(s) depart too early (before 14:00)"
+    ],
+    "uncertainty_notes": "Lufthansa Surprise could assign an unacceptable early flight segment.",
+    "iata": "WRO"
+  }
+}

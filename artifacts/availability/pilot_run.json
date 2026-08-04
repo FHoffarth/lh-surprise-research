@@ -1,0 +1,378 @@
+{
+  "run_type": "pilot_availability_elimination",
+  "created_at": "2026-08-03T22:49:28.697127",
+  "recommendation": "FIXES_REQUIRED",
+  "inventory_changed": false,
+  "parameters_confirmed": {
+    "origin": "Frankfurt/Main",
+    "outbound_date": "07.08.2026",
+    "return_date": "09.08.2026",
+    "travelers": 1,
+    "cabin_class": "Economy",
+    "flexibility": "Volle Flexibilität",
+    "theme": "Kunst und Kultur",
+    "input_method": "react_datepicker_ui_only (zero DOM injection)"
+  },
+  "initial_baseline": {
+    "status": "available",
+    "price": "129,00€"
+  },
+  "final_baseline": {
+    "status": "available",
+    "price": "129,00€"
+  },
+  "tests_executed": 5,
+  "results": [
+    {
+      "test_id": "baseline_initial",
+      "description": "Initial Baseline (All 11 Targets)",
+      "timestamp_start": "2026-08-03T22:47:09.521321",
+      "timestamp_end": "2026-08-03T22:47:37.913293",
+      "active_targets": [
+        "FLR",
+        "PRG",
+        "WAW",
+        "WRO",
+        "HEL",
+        "BLQ",
+        "KRK",
+        "BSL",
+        "SJJ",
+        "LIN",
+        "PUY"
+      ],
+      "parameters": {
+        "origin": "Frankfurt/Main",
+        "theme": "Kunst und Kultur",
+        "earliestOut": "07.08.2026",
+        "latestRet": "09.08.2026",
+        "travelClass": "1 Reisender, Economy",
+        "parameters_verified": true
+      },
+      "checkbox_proof": {
+        "all_targets": [
+          "FLR",
+          "PRG",
+          "WAW",
+          "WRO",
+          "HEL",
+          "BLQ",
+          "KRK",
+          "BSL",
+          "SJJ",
+          "LIN",
+          "PUY"
+        ],
+        "desired_state": {
+          "FLR": true,
+          "PRG": true,
+          "WAW": true,
+          "WRO": true,
+          "HEL": true,
+          "BLQ": true,
+          "KRK": true,
+          "BSL": true,
+          "SJJ": true,
+          "LIN": true,
+          "PUY": true
+        },
+        "actual_dom_state": {
+          "FLR": true,
+          "PRG": true,
+          "WAW": true,
+          "WRO": true,
+          "HEL": true,
+          "BLQ": true,
+          "KRK": true,
+          "BSL": true,
+          "SJJ": true,
+          "LIN": true,
+          "PUY": true
+        },
+        "checkboxes_verified": true,
+        "mismatches": []
+      },
+      "status": "available",
+      "price": "129,00€",
+      "details": "Offer page loaded with price details",
+      "parameters_verified": true,
+      "checkboxes_verified": true
+    },
+    {
+      "test_id": "group_1_flr_prg_waw",
+      "description": "Group 1 (FLR, PRG, WAW)",
+      "timestamp_start": "2026-08-03T22:47:40.924604",
+      "timestamp_end": "2026-08-03T22:48:08.106460",
+      "active_targets": [
+        "FLR",
+        "PRG",
+        "WAW"
+      ],
+      "parameters": {
+        "origin": "Frankfurt/Main",
+        "theme": "Kunst und Kultur",
+        "earliestOut": "07.08.2026",
+        "latestRet": "09.08.2026",
+        "travelClass": "1 Reisender, Economy",
+        "parameters_verified": true
+      },
+      "checkbox_proof": {
+        "all_targets": [
+          "FLR",
+          "PRG",
+          "WAW",
+          "WRO",
+          "HEL",
+          "BLQ",
+          "KRK",
+          "BSL",
+          "SJJ",
+          "LIN",
+          "PUY"
+        ],
+        "desired_state": {
+          "FLR": true,
+          "PRG": true,
+          "WAW": true,
+          "WRO": false,
+          "HEL": false,
+          "BLQ": false,
+          "KRK": false,
+          "BSL": false,
+          "SJJ": false,
+          "LIN": false,
+          "PUY": false
+        },
+        "actual_dom_state": {
+          "FLR": true,
+          "PRG": true,
+          "WAW": true,
+          "WRO": false,
+          "HEL": false,
+          "BLQ": false,
+          "KRK": false,
+          "BSL": false,
+          "SJJ": false,
+          "LIN": false,
+          "PUY": false
+        },
+        "checkboxes_verified": true,
+        "mismatches": []
+      },
+      "status": "available",
+      "price": "177,52€",
+      "details": "Offer page loaded with price details",
+      "parameters_verified": true,
+      "checkboxes_verified": true
+    },
+    {
+      "test_id": "group_2_hel_blq_krk",
+      "description": "Group 2 (HEL, BLQ, KRK)",
+      "timestamp_start": "2026-08-03T22:48:11.120797",
+      "timestamp_end": "2026-08-03T22:48:38.341302",
+      "active_targets": [
+        "HEL",
+        "BLQ",
+        "KRK"
+      ],
+      "parameters": {
+        "origin": "Frankfurt/Main",
+        "theme": "Kunst und Kultur",
+        "earliestOut": "07.08.2026",
+        "latestRet": "09.08.2026",
+        "travelClass": "1 Reisender, Economy",
+        "parameters_verified": true
+      },
+      "checkbox_proof": {
+        "all_targets": [
+          "FLR",
+          "PRG",
+          "WAW",
+          "WRO",
+          "HEL",
+          "BLQ",
+          "KRK",
+          "BSL",
+          "SJJ",
+          "LIN",
+          "PUY"
+        ],
+        "desired_state": {
+          "FLR": false,
+          "PRG": false,
+          "WAW": false,
+          "WRO": false,
+          "HEL": true,
+          "BLQ": true,
+          "KRK": true,
+          "BSL": false,
+          "SJJ": false,
+          "LIN": false,
+          "PUY": false
+        },
+        "actual_dom_state": {
+          "FLR": false,
+          "PRG": false,
+          "WAW": false,
+          "WRO": false,
+          "HEL": true,
+          "BLQ": true,
+          "KRK": true,
+          "BSL": false,
+          "SJJ": false,
+          "LIN": false,
+          "PUY": false
+        },
+        "checkboxes_verified": true,
+        "mismatches": []
+      },
+      "status": "available",
+      "price": "204,89€",
+      "details": "Offer page loaded with price details",
+      "parameters_verified": true,
+      "checkboxes_verified": true
+    },
+    {
+      "test_id": "single_target_prg",
+      "description": "Single Target Test (PRG)",
+      "timestamp": "2026-08-03T22:48:41.349732",
+      "active_targets": [
+        "PRG"
+      ],
+      "parameters": {
+        "origin": "Frankfurt/Main",
+        "theme": "Kunst und Kultur",
+        "earliestOut": "07.08.2026",
+        "latestRet": "09.08.2026",
+        "travelClass": "1 Reisender, Economy",
+        "parameters_verified": true
+      },
+      "checkbox_proof": {
+        "all_targets": [
+          "FLR",
+          "PRG",
+          "WAW",
+          "WRO",
+          "HEL",
+          "BLQ",
+          "KRK",
+          "BSL",
+          "SJJ",
+          "LIN",
+          "PUY"
+        ],
+        "desired_state": {
+          "FLR": false,
+          "PRG": true,
+          "WAW": false,
+          "WRO": false,
+          "HEL": false,
+          "BLQ": false,
+          "KRK": false,
+          "BSL": false,
+          "SJJ": false,
+          "LIN": false,
+          "PUY": false
+        },
+        "actual_dom_state": {
+          "FLR": false,
+          "PRG": true,
+          "WAW": false,
+          "WRO": false,
+          "HEL": false,
+          "BLQ": false,
+          "KRK": false,
+          "BSL": false,
+          "SJJ": false,
+          "LIN": true,
+          "PUY": true
+        },
+        "checkboxes_verified": false,
+        "mismatches": [
+          "LIN: expected False, got True",
+          "PUY: expected False, got True"
+        ]
+      },
+      "status": "validation_failed",
+      "price": null,
+      "error": "Checkbox state verification failed",
+      "parameters_verified": true,
+      "checkboxes_verified": false
+    },
+    {
+      "test_id": "baseline_final",
+      "description": "Final Baseline (Inventory Consistency Check)",
+      "timestamp_start": "2026-08-03T22:49:03.214787",
+      "timestamp_end": "2026-08-03T22:49:27.724909",
+      "active_targets": [
+        "FLR",
+        "PRG",
+        "WAW",
+        "WRO",
+        "HEL",
+        "BLQ",
+        "KRK",
+        "BSL",
+        "SJJ",
+        "LIN",
+        "PUY"
+      ],
+      "parameters": {
+        "origin": "Frankfurt/Main",
+        "theme": "Kunst und Kultur",
+        "earliestOut": "07.08.2026",
+        "latestRet": "09.08.2026",
+        "travelClass": "1 Reisender, Economy",
+        "parameters_verified": true
+      },
+      "checkbox_proof": {
+        "all_targets": [
+          "FLR",
+          "PRG",
+          "WAW",
+          "WRO",
+          "HEL",
+          "BLQ",
+          "KRK",
+          "BSL",
+          "SJJ",
+          "LIN",
+          "PUY"
+        ],
+        "desired_state": {
+          "FLR": true,
+          "PRG": true,
+          "WAW": true,
+          "WRO": true,
+          "HEL": true,
+          "BLQ": true,
+          "KRK": true,
+          "BSL": true,
+          "SJJ": true,
+          "LIN": true,
+          "PUY": true
+        },
+        "actual_dom_state": {
+          "FLR": true,
+          "PRG": true,
+          "WAW": true,
+          "WRO": true,
+          "HEL": true,
+          "BLQ": true,
+          "KRK": true,
+          "BSL": true,
+          "SJJ": true,
+          "LIN": true,
+          "PUY": true
+        },
+        "checkboxes_verified": true,
+        "mismatches": []
+      },
+      "status": "available",
+      "price": "129,00€",
+      "details": "Offer page loaded with price details",
+      "parameters_verified": true,
+      "checkboxes_verified": true
+    }
+  ]
+}

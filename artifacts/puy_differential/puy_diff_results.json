@@ -1,0 +1,199 @@
+{
+  "timestamp": "2026-08-04T21:21:14.016024",
+  "results": [
+    {
+      "test_id": "test_a_all_active",
+      "description": "Test A: All 11 Targets Active",
+      "timestamp_start": "2026-08-04T21:17:34.341787",
+      "timestamp_end": "2026-08-04T21:18:09.135861",
+      "active_targets": [
+        "FLR",
+        "PRG",
+        "WAW",
+        "WRO",
+        "HEL",
+        "BLQ",
+        "KRK",
+        "BSL",
+        "SJJ",
+        "LIN",
+        "PUY"
+      ],
+      "status": "available",
+      "price": "129,00€",
+      "details": "Offer page loaded",
+      "cb_verified": true,
+      "json_requests": [
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/config?initReq=&t=1785871055146&CLIENT_CODE=LHS",
+          "method": "GET",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/setLang/de",
+          "method": "POST",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_retrieve_initial\",\"userToken\":\"17858710536a723acd62233\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:17:35+02:00\",\"modelData\":{\"userToken\":\"17858710536a723acd62233\",\"lang\":\"de\",\"originTitle\":\"\",\"poolTitle\":\"\",\"referrer\":\"\"}}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/pools",
+          "method": "POST",
+          "post_data": "{\"lang\":\"de\",\"p\":\"OPQ\",\"userToken\":\"17858710536a723acd62233\",\"CLIENT_CODE\":\"LHS\"}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_retrieve\",\"userToken\":\"17858710536a723acd62233\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:17:43+02:00\",\"modelData\":{\"userToken\":\"17858710536a723acd62233\",\"lang\":\"de\",\"originTitle\":\"\",\"poolTitle\":\"\",\"referrer\":\"\"}}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/setLang/de",
+          "method": "POST",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/availability",
+          "method": "POST",
+          "post_data": "{\"lang\":\"de\",\"p\":\"OPQ\",\"userToken\":\"17858710536a723acd62233\",\"CLIENT_CODE\":\"LHS\",\"basicFare\":{\"amount\":0,\"currency\":\"EUR\"},\"smartFare\":{\"amount\":0,\"currency\":\"EUR\"},\"conditions\":false,\"origin\":\"FRA\",\"pool\":\"FRA_CULTURE\",\"numAdt\":1,\"numChd\":0,\"numInf\":0,\"minStay\":1,\"maxStay\":1,\"dayType\":\"\",\"earliestOut\":\"2026-08-07\",\"latestRet\":\"2026-08-09\",\"timeRestriction\":\"\",\"travelClass\":\"ECONOMY\",\"isTravelingBusiness\":false,\"poolDestinationsData\":[{\"label\":\"Florenz\",\"value\":{\"origin\":\"FRA\",\"destination\":\"FLR\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Prag\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PRG\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Warschau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WAW\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Breslau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WRO\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Helsinki\",\"value\":{\"origin\":\"FRA\",\"destination\":\"HEL\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Bologna\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BLQ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Krakau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"KRK\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Basel\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BSL\",\"routeType\":\"SHORT\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Sarajevo\",\"value\":{\"origin\":\"FRA\",\"destination\":\"SJJ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Mailand\",\"value\":{\"origin\":\"FRA\",\"destination\":\"LIN\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Pula\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PUY\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true}],\"poolFromPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"imageFileName\":\"kunst2.jpg\",\"availableStayValues\":[1,2],\"totalPrice\":{\"amount\":0,\"currency\":\"EUR\"},\"totalOpc\":null,\"voucherPrice\":{\"amount\":0,\"currency\":\"EUR\"},\"filterData\":{\"maxStay\":{\"start\":1,\"end\":14,\"titleKey\":false},\"minStay\":{\"start\":1,\"end\":14,\"titleKey\":false},\"numAdt\":{\"start\":1,\"end\":9,\"titleKey\":false},\"numChd\":{\"start\":0,\"end\":8,\"titleKey\":false},\"numInf\":{\"start\":0,\"end\":1,\"titleKey\":false},\"dayType\":{\"values\":[\"FRI_SUN\",\"SAT_MON\",\"SATURDAY\"],\"emptyTopLabel\":\"FULLFLEX\"},\"timeRestriction\":{\"values\":[\"NOTEARLY\",\"LATEFLIGHTS\"],\"emptyTopLabel\":\"FULLFLEX\"},\"travelClass\":{\"values\":[\"ECONOMY\",\"BUSINESS\"]}},\"browserTime\":\"2026-08-04T21:18:01+02:00\"}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_details\",\"userToken\":\"17858710536a723acd62233\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:18:03+02:00\",\"modelData\":{\"userToken\":\"17858710536a723acd62233\",\"lang\":\"de\",\"originTitle\":\"Frankfurt/Main\",\"poolTitle\":\"Kunst und Kultur\",\"poolDestinationsData\":[{\"label\":\"Florenz\",\"value\":{\"origin\":\"FRA\",\"destination\":\"FLR\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Prag\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PRG\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Warschau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WAW\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Breslau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WRO\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Helsinki\",\"value\":{\"origin\":\"FRA\",\"destination\":\"HEL\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Bologna\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BLQ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Krakau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"KRK\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Basel\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BSL\",\"routeType\":\"SHORT\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Sarajevo\",\"value\":{\"origin\":\"FRA\",\"destination\":\"SJJ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Mailand\",\"value\":{\"origin\":\"FRA\",\"destination\":\"LIN\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Pula\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PUY\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:36Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:36Z\",\"sellPeriodStart\":\"2026-06-30T09:04:36Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:36Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true}],\"prices\":[{\"passengerType\":\"ADT\",\"amount\":{\"amount\":129,\"currency\":\"EUR\"},\"total\":null,\"fareBasis\":null,\"segmentReferences\":null,\"passengerReferences\":null,\"tax\":null,\"ancillaries\":null,\"opc\":null}],\"imageFileName\":\"kunst2.jpg\",\"numAdt\":1,\"numChd\":0,\"numInf\":0,\"minStay\":1,\"maxStay\":1,\"dayType\":\"\",\"earliestOut\":\"2026-08-07\",\"latestRet\":\"2026-08-09\",\"messageContext\":{\"clientType\":\"LHS\",\"ipAddress\":\"62.226.128.229\",\"language\":\"de\",\"module\":null,\"pointOfSale\":\"DE\",\"session\":\"17858710536a723acd62233\",\"userName\":null,\"version\":1},\"returnCode\":\"SUCCESS\",\"totalPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"poolFromPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"fromPrice\":{\"amount\":109,\"currency\":\"EUR\"},\"timeRestriction\":\"\"}}"
+        }
+      ]
+    },
+    {
+      "test_id": "test_b_puy_inactive",
+      "description": "Test B: PUY Deactivated (10 Active)",
+      "timestamp_start": "2026-08-04T21:18:13.861662",
+      "timestamp_end": "2026-08-04T21:18:50.166473",
+      "active_targets": [
+        "FLR",
+        "PRG",
+        "WAW",
+        "WRO",
+        "HEL",
+        "BLQ",
+        "KRK",
+        "BSL",
+        "SJJ",
+        "LIN"
+      ],
+      "status": "available",
+      "price": "138,58€",
+      "details": "Offer page loaded",
+      "cb_verified": true,
+      "json_requests": [
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/config?initReq=&t=1785871095126&CLIENT_CODE=LHS",
+          "method": "GET",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/setLang/de",
+          "method": "POST",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_retrieve_initial\",\"userToken\":\"17858710936a723af50da2f\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:18:16+02:00\",\"modelData\":{\"userToken\":\"17858710936a723af50da2f\",\"lang\":\"de\",\"originTitle\":\"\",\"poolTitle\":\"\",\"referrer\":\"\"}}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/pools",
+          "method": "POST",
+          "post_data": "{\"lang\":\"de\",\"p\":\"OPQ\",\"userToken\":\"17858710936a723af50da2f\",\"CLIENT_CODE\":\"LHS\"}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_retrieve\",\"userToken\":\"17858710936a723af50da2f\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:18:23+02:00\",\"modelData\":{\"userToken\":\"17858710936a723af50da2f\",\"lang\":\"de\",\"originTitle\":\"\",\"poolTitle\":\"\",\"referrer\":\"\"}}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/setLang/de",
+          "method": "POST",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/availability",
+          "method": "POST",
+          "post_data": "{\"lang\":\"de\",\"p\":\"OPQ\",\"userToken\":\"17858710936a723af50da2f\",\"CLIENT_CODE\":\"LHS\",\"basicFare\":{\"amount\":0,\"currency\":\"EUR\"},\"smartFare\":{\"amount\":0,\"currency\":\"EUR\"},\"conditions\":false,\"origin\":\"FRA\",\"pool\":\"FRA_CULTURE\",\"numAdt\":1,\"numChd\":0,\"numInf\":0,\"minStay\":1,\"maxStay\":1,\"dayType\":\"\",\"earliestOut\":\"2026-08-07\",\"latestRet\":\"2026-08-09\",\"timeRestriction\":\"\",\"travelClass\":\"ECONOMY\",\"isTravelingBusiness\":false,\"poolDestinationsData\":[{\"label\":\"Florenz\",\"value\":{\"origin\":\"FRA\",\"destination\":\"FLR\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Prag\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PRG\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Warschau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WAW\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Breslau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WRO\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Helsinki\",\"value\":{\"origin\":\"FRA\",\"destination\":\"HEL\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Bologna\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BLQ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Krakau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"KRK\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Basel\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BSL\",\"routeType\":\"SHORT\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Sarajevo\",\"value\":{\"origin\":\"FRA\",\"destination\":\"SJJ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Mailand\",\"value\":{\"origin\":\"FRA\",\"destination\":\"LIN\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Pula\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PUY\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":false}],\"poolFromPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"imageFileName\":\"kunst2.jpg\",\"availableStayValues\":[1,2],\"totalPrice\":{\"amount\":0,\"currency\":\"EUR\"},\"totalOpc\":null,\"voucherPrice\":{\"amount\":0,\"currency\":\"EUR\"},\"filterData\":{\"maxStay\":{\"start\":1,\"end\":14,\"titleKey\":false},\"minStay\":{\"start\":1,\"end\":14,\"titleKey\":false},\"numAdt\":{\"start\":1,\"end\":9,\"titleKey\":false},\"numChd\":{\"start\":0,\"end\":8,\"titleKey\":false},\"numInf\":{\"start\":0,\"end\":1,\"titleKey\":false},\"dayType\":{\"values\":[\"FRI_SUN\",\"SAT_MON\",\"SATURDAY\"],\"emptyTopLabel\":\"FULLFLEX\"},\"timeRestriction\":{\"values\":[\"NOTEARLY\",\"LATEFLIGHTS\"],\"emptyTopLabel\":\"FULLFLEX\"},\"travelClass\":{\"values\":[\"ECONOMY\",\"BUSINESS\"]}},\"browserTime\":\"2026-08-04T21:18:42+02:00\"}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_details\",\"userToken\":\"17858710936a723af50da2f\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:18:45+02:00\",\"modelData\":{\"userToken\":\"17858710936a723af50da2f\",\"lang\":\"de\",\"originTitle\":\"Frankfurt/Main\",\"poolTitle\":\"Kunst und Kultur\",\"poolDestinationsData\":[{\"label\":\"Florenz\",\"value\":{\"origin\":\"FRA\",\"destination\":\"FLR\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Prag\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PRG\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Warschau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WAW\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Breslau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WRO\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Helsinki\",\"value\":{\"origin\":\"FRA\",\"destination\":\"HEL\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Bologna\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BLQ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Krakau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"KRK\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Basel\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BSL\",\"routeType\":\"SHORT\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Sarajevo\",\"value\":{\"origin\":\"FRA\",\"destination\":\"SJJ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Mailand\",\"value\":{\"origin\":\"FRA\",\"destination\":\"LIN\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Pula\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PUY\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":false}],\"prices\":[{\"passengerType\":\"ADT\",\"amount\":{\"amount\":138.58,\"currency\":\"EUR\"},\"total\":null,\"fareBasis\":null,\"segmentReferences\":null,\"passengerReferences\":null,\"tax\":null,\"ancillaries\":null,\"opc\":null}],\"imageFileName\":\"kunst2.jpg\",\"numAdt\":1,\"numChd\":0,\"numInf\":0,\"minStay\":1,\"maxStay\":1,\"dayType\":\"\",\"earliestOut\":\"2026-08-07\",\"latestRet\":\"2026-08-09\",\"messageContext\":{\"clientType\":\"LHS\",\"ipAddress\":\"62.226.128.229\",\"language\":\"de\",\"module\":null,\"pointOfSale\":\"DE\",\"session\":\"17858710936a723af50da2f\",\"userName\":null,\"version\":1},\"returnCode\":\"SUCCESS\",\"totalPrice\":{\"amount\":138.58,\"currency\":\"EUR\"},\"poolFromPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"fromPrice\":{\"amount\":109,\"currency\":\"EUR\"},\"timeRestriction\":\"\"}}"
+        }
+      ]
+    },
+    {
+      "test_id": "test_c_all_active_repeat",
+      "description": "Test C: PUY Re-activated (Baseline Repeat)",
+      "timestamp_start": "2026-08-04T21:18:54.897915",
+      "timestamp_end": "2026-08-04T21:20:23.681467",
+      "active_targets": [
+        "FLR",
+        "PRG",
+        "WAW",
+        "WRO",
+        "HEL",
+        "BLQ",
+        "KRK",
+        "BSL",
+        "SJJ",
+        "LIN",
+        "PUY"
+      ],
+      "status": "available",
+      "price": "129,00€",
+      "details": "Offer page loaded",
+      "cb_verified": true,
+      "json_requests": [
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/config?initReq=&t=1785871136183&CLIENT_CODE=LHS",
+          "method": "GET",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/setLang/de",
+          "method": "POST",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_retrieve_initial\",\"userToken\":\"17858711346a723b1e5f221\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:18:56+02:00\",\"modelData\":{\"userToken\":\"17858711346a723b1e5f221\",\"lang\":\"de\",\"originTitle\":\"\",\"poolTitle\":\"\",\"referrer\":\"\"}}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/pools",
+          "method": "POST",
+          "post_data": "{\"lang\":\"de\",\"p\":\"OPQ\",\"userToken\":\"17858711346a723b1e5f221\",\"CLIENT_CODE\":\"LHS\"}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_retrieve\",\"userToken\":\"17858711346a723b1e5f221\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:19:41+02:00\",\"modelData\":{\"userToken\":\"17858711346a723b1e5f221\",\"lang\":\"de\",\"originTitle\":\"\",\"poolTitle\":\"\",\"referrer\":\"\"}}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/setLang/de",
+          "method": "POST",
+          "post_data": null
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/availability",
+          "method": "POST",
+          "post_data": "{\"lang\":\"de\",\"p\":\"OPQ\",\"userToken\":\"17858711346a723b1e5f221\",\"CLIENT_CODE\":\"LHS\",\"basicFare\":{\"amount\":0,\"currency\":\"EUR\"},\"smartFare\":{\"amount\":0,\"currency\":\"EUR\"},\"conditions\":false,\"origin\":\"FRA\",\"pool\":\"FRA_CULTURE\",\"numAdt\":1,\"numChd\":0,\"numInf\":0,\"minStay\":1,\"maxStay\":1,\"dayType\":\"\",\"earliestOut\":\"2026-08-07\",\"latestRet\":\"2026-08-09\",\"timeRestriction\":\"\",\"travelClass\":\"ECONOMY\",\"isTravelingBusiness\":false,\"poolDestinationsData\":[{\"label\":\"Florenz\",\"value\":{\"origin\":\"FRA\",\"destination\":\"FLR\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Prag\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PRG\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Warschau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WAW\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Breslau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WRO\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Helsinki\",\"value\":{\"origin\":\"FRA\",\"destination\":\"HEL\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Bologna\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BLQ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Krakau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"KRK\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Basel\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BSL\",\"routeType\":\"SHORT\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Sarajevo\",\"value\":{\"origin\":\"FRA\",\"destination\":\"SJJ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Mailand\",\"value\":{\"origin\":\"FRA\",\"destination\":\"LIN\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Pula\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PUY\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true}],\"poolFromPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"imageFileName\":\"kunst2.jpg\",\"availableStayValues\":[1,2],\"totalPrice\":{\"amount\":0,\"currency\":\"EUR\"},\"totalOpc\":null,\"voucherPrice\":{\"amount\":0,\"currency\":\"EUR\"},\"filterData\":{\"maxStay\":{\"start\":1,\"end\":14,\"titleKey\":false},\"minStay\":{\"start\":1,\"end\":14,\"titleKey\":false},\"numAdt\":{\"start\":1,\"end\":9,\"titleKey\":false},\"numChd\":{\"start\":0,\"end\":8,\"titleKey\":false},\"numInf\":{\"start\":0,\"end\":1,\"titleKey\":false},\"dayType\":{\"values\":[\"FRI_SUN\",\"SAT_MON\",\"SATURDAY\"],\"emptyTopLabel\":\"FULLFLEX\"},\"timeRestriction\":{\"values\":[\"NOTEARLY\",\"LATEFLIGHTS\"],\"emptyTopLabel\":\"FULLFLEX\"},\"travelClass\":{\"values\":[\"ECONOMY\",\"BUSINESS\"]}},\"browserTime\":\"2026-08-04T21:20:08+02:00\"}"
+        },
+        {
+          "url": "https://www.lufthansa-surprise.com/jsonapi/logging",
+          "method": "POST",
+          "post_data": "{\"scrName\":\"opq_details\",\"userToken\":\"17858711346a723b1e5f221\",\"p\":\"OPQ\",\"lang\":\"de\",\"screenWidth\":1280,\"screenHeight\":900,\"CLIENT_CODE\":\"LHS\",\"browserTime\":\"2026-08-04T21:20:10+02:00\",\"modelData\":{\"userToken\":\"17858711346a723b1e5f221\",\"lang\":\"de\",\"originTitle\":\"Frankfurt/Main\",\"poolTitle\":\"Kunst und Kultur\",\"poolDestinationsData\":[{\"label\":\"Florenz\",\"value\":{\"origin\":\"FRA\",\"destination\":\"FLR\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Prag\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PRG\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Warschau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WAW\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Breslau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"WRO\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Helsinki\",\"value\":{\"origin\":\"FRA\",\"destination\":\"HEL\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Bologna\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BLQ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Krakau\",\"value\":{\"origin\":\"FRA\",\"destination\":\"KRK\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Basel\",\"value\":{\"origin\":\"FRA\",\"destination\":\"BSL\",\"routeType\":\"SHORT\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Sarajevo\",\"value\":{\"origin\":\"FRA\",\"destination\":\"SJJ\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Mailand\",\"value\":{\"origin\":\"FRA\",\"destination\":\"LIN\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true},{\"label\":\"Pula\",\"value\":{\"origin\":\"FRA\",\"destination\":\"PUY\",\"routeType\":\"MEDIUM\",\"offerPeriodStart\":\"2026-06-30T09:04:11Z\",\"offerPeriodEnd\":\"2999-12-31T10:04:11Z\",\"sellPeriodStart\":\"2026-06-30T09:04:11Z\",\"sellPeriodEnd\":\"2999-12-31T10:04:11Z\",\"isInSale\":true,\"isInOffer\":true},\"active\":true}],\"prices\":[{\"passengerType\":\"ADT\",\"amount\":{\"amount\":129,\"currency\":\"EUR\"},\"total\":null,\"fareBasis\":null,\"segmentReferences\":null,\"passengerReferences\":null,\"tax\":null,\"ancillaries\":null,\"opc\":null}],\"imageFileName\":\"kunst2.jpg\",\"numAdt\":1,\"numChd\":0,\"numInf\":0,\"minStay\":1,\"maxStay\":1,\"dayType\":\"\",\"earliestOut\":\"2026-08-07\",\"latestRet\":\"2026-08-09\",\"messageContext\":{\"clientType\":\"LHS\",\"ipAddress\":\"62.226.128.229\",\"language\":\"de\",\"module\":null,\"pointOfSale\":\"DE\",\"session\":\"17858711346a723b1e5f221\",\"userName\":null,\"version\":1},\"returnCode\":\"SUCCESS\",\"totalPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"poolFromPrice\":{\"amount\":129,\"currency\":\"EUR\"},\"fromPrice\":{\"amount\":109,\"currency\":\"EUR\"},\"timeRestriction\":\"\"}}"
+        }
+      ]
+    }
+  ]
+}

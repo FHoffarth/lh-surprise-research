@@ -1,0 +1,33 @@
+{
+  "consent_method": "regular_reject",
+  "flights": {
+    "FRA-PRG_2026-08-07": {
+      "requested_route": "FRA-PRG",
+      "requested_date": "2026-08-07",
+      "response_routes": [],
+      "response_dates": [],
+      "parameters_verified": false,
+      "navigation_attempts": [
+        {
+          "method": "deeplink",
+          "status": "unverified_response",
+          "final_url_redacted": "https://www.lufthansa.com/de/de/fluege",
+          "parameters_verified": false
+        },
+        {
+          "method": "ui",
+          "status": "blocked",
+          "final_url_redacted": "",
+          "parameters_verified": false
+        }
+      ],
+      "successful_navigation_method": null,
+      "final_url_redacted": "",
+      "source_type": "shopping_offer",
+      "extraction_method": "network",
+      "status": "blocked",
+      "status_reason": "Security check blocked access",
+      "flights": []
+    }
+  }
+}

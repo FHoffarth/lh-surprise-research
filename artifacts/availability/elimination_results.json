@@ -1,0 +1,59 @@
+{
+  "parameters": {
+    "origin": "FRA",
+    "theme": "Arts & Sights",
+    "outbound": "07.08.2026",
+    "return": "09.08.2026",
+    "travelers": 1,
+    "class": "Economy",
+    "flexibility": "Full Flex"
+  },
+  "baseline_price": "02 €",
+  "results": {
+    "FLR": {
+      "status": "available",
+      "price": "Preis gefunden, aber nicht parslar"
+    },
+    "PRG": {
+      "status": "available",
+      "price": "02 €"
+    },
+    "WAW": {
+      "status": "available",
+      "price": "58 €"
+    },
+    "WRO": {
+      "status": "available",
+      "price": "58 €"
+    },
+    "HEL": {
+      "status": "available",
+      "price": "Preis gefunden, aber nicht parslar"
+    },
+    "BLQ": {
+      "status": "available",
+      "price": "Preis gefunden, aber nicht parslar"
+    },
+    "KRK": {
+      "status": "available",
+      "price": "58 €"
+    },
+    "BSL": {
+      "status": "available",
+      "price": "Preis gefunden, aber nicht parslar"
+    },
+    "SJJ": {
+      "status": "available",
+      "price": "Preis gefunden, aber nicht parslar"
+    },
+    "LIN": {
+      "status": "available",
+      "price": "Preis gefunden, aber nicht parslar"
+    },
+    "PUY": {
+      "status": "available",
+      "price": "Preis gefunden, aber nicht parslar"
+    }
+  },
+  "ui_checks_performed": 22
+}

@@ -1,0 +1,128 @@
+{
+  "2026-08-07": {
+    "outbound": [
+      {
+        "flight_number": "Lufthansa LH 1398",
+        "origin": "FRA",
+        "destination": "PUY",
+        "departure_time": "2026-08-07 17:00",
+        "arrival_time": "2026-08-07 18:30",
+        "direct": true,
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "ticket_also_sold_by": "Croatia",
+        "duration": "",
+        "stops": 0,
+        "source_type": "unknown",
+        "price": "",
+        "extraction_time": "",
+        "is_direct": true
+      }
+    ],
+    "return": [
+      {
+        "flight_number": "Lufthansa LH 1399",
+        "origin": "PUY",
+        "destination": "FRA",
+        "departure_time": "2026-08-07 19:10",
+        "arrival_time": "2026-08-07 20:40",
+        "direct": true,
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "ticket_also_sold_by": "Croatia",
+        "duration": "",
+        "stops": 0,
+        "source_type": "unknown",
+        "price": "",
+        "extraction_time": "",
+        "is_direct": true
+      }
+    ]
+  },
+  "2026-08-08": {
+    "outbound": [
+      {
+        "flight_number": "Lufthansa LH 1398",
+        "origin": "FRA",
+        "destination": "PUY",
+        "departure_time": "2026-08-08 16:55",
+        "arrival_time": "2026-08-08 18:25",
+        "direct": true,
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "ticket_also_sold_by": "Croatia",
+        "duration": "",
+        "stops": 0,
+        "source_type": "unknown",
+        "price": "",
+        "extraction_time": "",
+        "is_direct": true
+      }
+    ],
+    "return": [
+      {
+        "flight_number": "Lufthansa LH 1399",
+        "origin": "PUY",
+        "destination": "FRA",
+        "departure_time": "2026-08-08 19:05",
+        "arrival_time": "2026-08-08 20:35",
+        "direct": true,
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "ticket_also_sold_by": "Croatia",
+        "duration": "",
+        "stops": 0,
+        "source_type": "unknown",
+        "price": "",
+        "extraction_time": "",
+        "is_direct": true
+      }
+    ]
+  },
+  "2026-08-09": {
+    "outbound": [
+      {
+        "flight_number": "Lufthansa LH 1398",
+        "origin": "FRA",
+        "destination": "PUY",
+        "departure_time": "2026-08-09 17:00",
+        "arrival_time": "2026-08-09 18:30",
+        "direct": true,
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "ticket_also_sold_by": "Croatia",
+        "duration": "",
+        "stops": 0,
+        "source_type": "unknown",
+        "price": "",
+        "extraction_time": "",
+        "is_direct": true
+      }
+    ],
+    "return": [
+      {
+        "flight_number": "Lufthansa LH 1399",
+        "origin": "PUY",
+        "destination": "FRA",
+        "departure_time": "2026-08-09 19:20",
+        "arrival_time": "2026-08-09 20:50",
+        "direct": true,
+        "airline": "Lufthansa",
+        "marketing_carrier": "Lufthansa",
+        "operating_carrier": "",
+        "ticket_also_sold_by": "Croatia",
+        "duration": "",
+        "stops": 0,
+        "source_type": "unknown",
+        "price": "",
+        "extraction_time": "",
+        "is_direct": true
+      }
+    ]
+  }
+}

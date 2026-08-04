@@ -1,0 +1,351 @@
+[
+  {
+    "destination": "Prag",
+    "airport": "PRG",
+    "score_breakdown": {
+      "outbound_time_score": 30,
+      "return_time_score": 0,
+      "nonstop_score": 40,
+      "carrier_score": 10,
+      "ambiguity_penalty": 0,
+      "final_score": 80
+    },
+    "score": 80,
+    "confidence": "low",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Lufthansa Surprise inventory cannot be confirmed",
+      "Multiple candidates are within 10 score points"
+    ],
+    "outbound_match": {
+      "flight": "Lufthansa LH 1394",
+      "scheduled_departure": "2026-08-07 10:00",
+      "displayed_departure": "10:00",
+      "difference_minutes": 0
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 1397",
+      "scheduled_departure": "2026-08-09 14:10",
+      "displayed_departure": "15:00",
+      "difference_minutes": 50
+    }
+  },
+  {
+    "destination": "London",
+    "airport": "LHR",
+    "score_breakdown": {
+      "outbound_time_score": 30,
+      "return_time_score": 0,
+      "nonstop_score": 40,
+      "carrier_score": 10,
+      "ambiguity_penalty": 0,
+      "final_score": 80
+    },
+    "score": 80,
+    "confidence": "low",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Lufthansa Surprise inventory cannot be confirmed",
+      "Multiple candidates are within 10 score points"
+    ],
+    "outbound_match": {
+      "flight": "Lufthansa City Airlines VL 904",
+      "scheduled_departure": "2026-08-07 10:00",
+      "displayed_departure": "10:00",
+      "difference_minutes": 0
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 909",
+      "scheduled_departure": "2026-08-09 15:30",
+      "displayed_departure": "15:00",
+      "difference_minutes": 30
+    }
+  },
+  {
+    "destination": "Rom",
+    "airport": "FCO",
+    "score_breakdown": {
+      "outbound_time_score": 0,
+      "return_time_score": 25,
+      "nonstop_score": 40,
+      "carrier_score": 10,
+      "ambiguity_penalty": 0,
+      "final_score": 75
+    },
+    "score": 75,
+    "confidence": "low",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Lufthansa Surprise inventory cannot be confirmed",
+      "Multiple candidates are within 10 score points"
+    ],
+    "outbound_match": {
+      "flight": "Lufthansa LH 232",
+      "scheduled_departure": "2026-08-07 10:40",
+      "displayed_departure": "10:00",
+      "difference_minutes": 40
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 235",
+      "scheduled_departure": "2026-08-09 14:55",
+      "displayed_departure": "15:00",
+      "difference_minutes": 5
+    }
+  },
+  {
+    "destination": "Wien",
+    "airport": "VIE",
+    "score_breakdown": {
+      "outbound_time_score": 0,
+      "return_time_score": 25,
+      "nonstop_score": 40,
+      "carrier_score": 10,
+      "ambiguity_penalty": 0,
+      "final_score": 75
+    },
+    "score": 75,
+    "confidence": "low",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Lufthansa Surprise inventory cannot be confirmed",
+      "Multiple candidates are within 10 score points"
+    ],
+    "outbound_match": {
+      "flight": "Austrian OS 202",
+      "scheduled_departure": "2026-08-07 09:20",
+      "displayed_departure": "10:00",
+      "difference_minutes": 40
+    },
+    "return_match": {
+      "flight": "Austrian OS 213",
+      "scheduled_departure": "2026-08-09 14:55",
+      "displayed_departure": "15:00",
+      "difference_minutes": 5
+    }
+  },
+  {
+    "destination": "Barcelona",
+    "airport": "BCN",
+    "score_breakdown": {
+      "outbound_time_score": 20,
+      "return_time_score": 0,
+      "nonstop_score": 40,
+      "carrier_score": 10,
+      "ambiguity_penalty": 0,
+      "final_score": 70
+    },
+    "score": 70,
+    "confidence": "low",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Lufthansa Surprise inventory cannot be confirmed",
+      "Multiple candidates are within 10 score points"
+    ],
+    "outbound_match": {
+      "flight": "Lufthansa LH 1126",
+      "scheduled_departure": "2026-08-07 09:50",
+      "displayed_departure": "10:00",
+      "difference_minutes": 10
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 1129",
+      "scheduled_departure": "2026-08-09 13:50",
+      "displayed_departure": "15:00",
+      "difference_minutes": 70
+    }
+  },
+  {
+    "destination": "Amsterdam",
+    "airport": "AMS",
+    "score_breakdown": {
+      "outbound_time_score": 15,
+      "return_time_score": 20,
+      "nonstop_score": 40,
+      "carrier_score": 0,
+      "ambiguity_penalty": -10,
+      "final_score": 65
+    },
+    "score": 65,
+    "confidence": "medium",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Operating carrier is not explicitly Lufthansa",
+      "Lufthansa Surprise inventory cannot be confirmed"
+    ],
+    "outbound_match": {
+      "flight": "KLM KL 1816",
+      "scheduled_departure": "2026-08-07 10:15",
+      "displayed_departure": "10:00",
+      "difference_minutes": 15
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 993",
+      "scheduled_departure": "2026-08-09 14:50",
+      "displayed_departure": "15:00",
+      "difference_minutes": 10
+    }
+  },
+  {
+    "destination": "Budapest",
+    "airport": "BUD",
+    "score_breakdown": {
+      "outbound_time_score": 10,
+      "return_time_score": 0,
+      "nonstop_score": 40,
+      "carrier_score": 10,
+      "ambiguity_penalty": 0,
+      "final_score": 60
+    },
+    "score": 60,
+    "confidence": "medium",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Lufthansa Surprise inventory cannot be confirmed"
+    ],
+    "outbound_match": {
+      "flight": "Lufthansa LH 1336",
+      "scheduled_departure": "2026-08-07 09:40",
+      "displayed_departure": "10:00",
+      "difference_minutes": 20
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 1339",
+      "scheduled_departure": "2026-08-09 14:15",
+      "displayed_departure": "15:00",
+      "difference_minutes": 45
+    }
+  },
+  {
+    "destination": "Paris",
+    "airport": "CDG",
+    "score_breakdown": {
+      "outbound_time_score": 15,
+      "return_time_score": 10,
+      "nonstop_score": 40,
+      "carrier_score": 0,
+      "ambiguity_penalty": -10,
+      "final_score": 55
+    },
+    "score": 55,
+    "confidence": "medium",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Operating carrier is not explicitly Lufthansa",
+      "Lufthansa Surprise inventory cannot be confirmed"
+    ],
+    "outbound_match": {
+      "flight": "Air France AF 1519",
+      "scheduled_departure": "2026-08-07 09:45",
+      "displayed_departure": "10:00",
+      "difference_minutes": 15
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 1035",
+      "scheduled_departure": "2026-08-09 14:40",
+      "displayed_departure": "15:00",
+      "difference_minutes": 20
+    }
+  },
+  {
+    "destination": "Madrid",
+    "airport": "MAD",
+    "score_breakdown": {
+      "outbound_time_score": 10,
+      "return_time_score": 15,
+      "nonstop_score": 40,
+      "carrier_score": 0,
+      "ambiguity_penalty": -10,
+      "final_score": 55
+    },
+    "score": 55,
+    "confidence": "medium",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Operating carrier is not explicitly Lufthansa",
+      "Lufthansa Surprise inventory cannot be confirmed"
+    ],
+    "outbound_match": {
+      "flight": "Lufthansa LH 1112",
+      "scheduled_departure": "2026-08-07 09:40",
+      "displayed_departure": "10:00",
+      "difference_minutes": 20
+    },
+    "return_match": {
+      "flight": "Air Europa UX 1509",
+      "scheduled_departure": "2026-08-09 15:15",
+      "displayed_departure": "15:00",
+      "difference_minutes": 15
+    }
+  },
+  {
+    "destination": "Venedig",
+    "airport": "VCE",
+    "score_breakdown": {
+      "outbound_time_score": 0,
+      "return_time_score": 10,
+      "nonstop_score": 40,
+      "carrier_score": 0,
+      "ambiguity_penalty": -10,
+      "final_score": 40
+    },
+    "score": 40,
+    "confidence": "low",
+    "reasons": [
+      "Nonstop service operates on both dates",
+      "outbound schedule match",
+      "return schedule match"
+    ],
+    "uncertainties": [
+      "Operating carrier is not explicitly Lufthansa",
+      "Lufthansa Surprise inventory cannot be confirmed"
+    ],
+    "outbound_match": {
+      "flight": "Condor DE 4237",
+      "scheduled_departure": "2026-08-07 09:10",
+      "displayed_departure": "10:00",
+      "difference_minutes": 50
+    },
+    "return_match": {
+      "flight": "Lufthansa LH 327",
+      "scheduled_departure": "2026-08-09 14:40",
+      "displayed_departure": "15:00",
+      "difference_minutes": 20
+    }
+  }
+]

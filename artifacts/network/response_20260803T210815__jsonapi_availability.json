@@ -1,0 +1,1910 @@
+{
+  "url": "https://www.lufthansa-surprise.com/jsonapi/availability",
+  "status": 200,
+  "timestamp": "2026-08-03T21:08:15",
+  "content_type": "application/json",
+  "body_redacted": true,
+  "body": {
+    "messageContext": {
+      "clientType": "LHS",
+      "ipAddress": "62.226.128.229",
+      "language": "de",
+      "module": null,
+      "pointOfSale": "DE",
+      "session": "[REDACTED]",
+      "userName": null,
+      "version": 1
+    },
+    "returnCode": "SUCCESS",
+    "totalPriceSmart": null,
+    "taskResult": [
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 291.92,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH922",
+              "returnCarrierCode": "VL",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "291.92",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=ru0aMZADSnXbJGg%2BAfzdqVsdAm0uprKVWzrOQiaeghynxmLfY%2FD7rXs1cQLUU6gT%2FEp9dRz1kp46QjZdUJnWYlFe0NlTEqP4Gu5PCF5g%2B7QBppbw8M3%2Fp4teB6I9%2BDdxpG%2Fd8jMfsGvCYeArOAkRltwY0Jzwn2E3dG5rLyuxM9XYOA677nLhiRBK0TA%2BGMHyagm8VtIa6iep3SrVJAMTyNTYqNkPOyyqrbT%2BwLkv1T8sCOupcqaRfslcsdbo7PjMh53ZhaFzhcY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=NWZujTmDHukGd1VhTt%2BHxjCUMGGAUwphGbOO%2F4ApJAjiw8nRiJunqyLUHgf0CeRpXiQHxhVLaWfKolZWcdRNm0UT3HMGC%2FK3teW6iiyFvwllEuBNvUbbFoO6%2BNIRQAwHC7pshkx9e2X92EqcQ4DAVJVvnZlnbLhTjh0vXl5%2BO0qwuXjiECGmAS%2FLUrQ19Rb2IyejOI3jH5GKXLNGvnQxwfjXWxPiYf04KDkIpeZLnWLKA5rSieodrDlFFNLI5uH7WlBdTyyiJTc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "LHR",
+              "timeStamp": null,
+              "returnFlightNumber": "VL925",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8772",
+              "returnCarrierCode": "VL",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "299.01",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=l5sMmNBGdkHuTw900pXdKcppTSYf62u0Jt5isFr2A7PbxpT0jkCH2pPFG6mpOPn0W1wg%2Fm23BTRJjBygNl55pal%2FzhykDwpLIcMi7tdqiJH45cVKGQ62edZRWSnn6W9CXQJ3b%2Bul37g609cYNLgofMrBrpgPUha7%2B68v8QVvtkZ7DUjOKAaJ6siSSu4GpAyMShAT5csHurrpjO5exXvvbUSQ7XTMRCnicQIPwBkXfe5Xu5BbypcL4EOqS2vSSdcAm4gEgHBeT9A%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=TnXJfr2avAp%2FVy2hr%2FMAvUQGnd4hlNzCDMPAOxH3i89iw7K128p1MIoDpkGx1MmeDzLmlpYGCDLy5OiMoBj2FpW%2FDM0A%2BSMFbbLMbMq7MBx465FpB0mEcAM3ZFXOHFWwgqWjZoHd2VLtDwHmgvP0SM1Rli6p%2B2m4awWteZXn4rpyB3uRIAlko9vyQ4qW5291%2ByvgTpdfo%2Bb972KpneZ4Ytv%2F3xkrEuU4PqPYAIuqFaH1ydElR1nnUuvTrPIzw%2FKMZbdYyuFtPyw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "LHR",
+              "timeStamp": null,
+              "returnFlightNumber": "VL925",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8772",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "330.01",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=vCiNcfKaJCAy0c%2B23bIuJ2278czPRZeNe3R%2Bjyu8ut1rYvz6Z6samSb8HO1DSnof58Nb56UQDwK0fG8Cy%2B%2FWH1Sj7wWGT2yR1nOvGcSe1MZv114oe874%2FqVRZ2SfUNhqbrCrWeoTzcPtgNpLCOHnUcGHB5Yd3okpkh90c6%2FFweVPbvedUgCEIpsGtAT7BzplSOsh2mORwa2IOrRJOHiuh6AvIiU4t17h%2B19KTqgU2ijTtPbFP48SVZ9KmRr%2FJ5dcmwafcWltYmI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=QBmaYYUYQJtkAu9Zg%2FLz%2FywMXZx773M2h2OKFW4eEgBfGyhnDr%2B6PIVcZk2tKr%2BF3V9KpKCUBGMfmUYfCnGBL0NppSdro%2B9IPzIpA0AJprP8LOpg6zgtNb4t2x3zjUlZb8prEomJDXtLQWH4c%2FBygd5Are2GmGbVjpDCY4gDJdejwnFioFJw3LSu%2BGcO%2BzXYPIuhOl0mIGUk4x3LAmHxEz6H1rRgtwFsBwOlxcYxFp0dlTWSaIoQ6GsTX8Ku52K8%2FyZsTaAzKeE%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "LHR",
+              "timeStamp": null,
+              "returnFlightNumber": "LH901",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8772",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "330.01",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=d58Xm4hoBgXBexaftwgPn5CYptdlQCJnSb%2FH8onH86CDTrvTZ94fbrvWWemmCL%2BgKbXj8fRI6kMsb7lwYckRpxNfRhGNawju3ZeyHseHr%2F3N8l5nbWEYM2dbeRFvu4gMejopiKwVe3hpSELQrj5hkFF6tjOss5tEyuK0C1EnjuLmP1XTz6Z6UBRVBwh8YBP24%2FlUWTz2VNJDPoZVdlC5SZjwXFeer%2FpRMTvKZVfdT2zRpILqmbrFHOh1jy2iC2yn8Bn47CoUQ%2B4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=mvh%2FY2ZFZOK9rhschdjn5VFaGsY1oWUrTk9%2FS2MFFXjgah%2FSMBIKHRxRb1AK3E9AyCAFDXUaWVrnw4zjqSIBlXvsplfk8l4j9FEaw39lN9TbWop5CC%2FF74RFUL7LQw57ioemIAWhgHSZ3FvkRUs5HAjC19ePtwgSjx3tTH5ftfHGOUR08VjIe6xmiX78Px6PDdqItooz3Hag0%2Bvr%2FJRvf5veUr2b8LQ%2BFDmEu89fjgy3m0wZAyb0n314Q3z%2B7DTtW4dF1iD8CMM%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "LHR",
+              "timeStamp": null,
+              "returnFlightNumber": "LH901",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8772",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "330.01",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=1qy8ew6UwcfFQgIduKVW2s5RpudQzmZ%2BUjm%2BT6es%2F%2Bc8i4UdMdfkavSKQzMpkRjk1pelNqArTMqtGsL7qEDoY%2B5zYY0mLEQzRLGaOgmMY7P2uws9BNlcRFMtKnVEo8%2FPu8VZZBuGjLWXbev6XRiNYTnbA2hYljiP%2FwkWuAsX4E2Pk70aeIZar1mwc2FDmCKOCRNjiKHRR7jhw0BgblIypEcMBjWGkp406kgbPaZv8dDS247aODpxO1sZcIW9PfcPFevuuoqfpJQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=fjjJAUumSX2LCxPeQOBpVvsXEVBJfD3GK3XN6r1G6fh15Kg4BAMr%2F%2FIFvjvd5mqWO7CkVvo5mItR%2BF4ATUOOnSBxmbBtdWtoiedrPaDf8ZYN7uYZI7fNKYLbCXDvWXmuC2VSkwgNJc1MJTmuTlQ5QyyCA6W15y1eK3d9ySEtscmF57g7%2BdiVbLdlvxtmRBJ4OpDI5XBz%2BrbFczgmYRGe2Q5G97DVw3u9s2q56SYo7JfrBl%2FYPyPtsFr3f4vYb8%2Baj1nr9ChgYoc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "LHR",
+              "timeStamp": null,
+              "returnFlightNumber": "LH901",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 313.55,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "AZ403",
+              "returnCarrierCode": "AZ",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "313.55",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=2HBq0MBNxImLLI%2BGcQkDDFyWJuAPVCBWfjMPwzHK%2BdN0lQNGYKNzmuBjc0gTip14x1AlaQLUoWGs%2FhIjKCczZhk8iY%2BCiNwUd895CDOWDZuYkj2Kz1pIYwJSUucd0uZRIVtibfMetMC8p3ar%2Fs6pgK11wjwNIB37ikdB2EcxiHC60gs6v7pBcwaqkENv8X8JN6nppdJhMZnMbl7gc94rswIKBLGii4tW%2FFJPYOFibvN%2FHuAJ7OHSOI%2Fw%2FvrF112hNCoJMslqio0%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=SlILNRjQaNhis3U2IHlOKUbumvwaPn%2Bv4XQ7b5Pn85zsY8Wup2q0QKHmQVB6N7ujq52awpbEcZ%2Feg8oVNR0IdrXbuW6xdfmVDbHrFh03m3J2%2BOT%2B6PFexY4dGyMxiqqfyfVbzgOcqk%2Fc2jeSVTybCEul%2Fb1FK9SF5QMMst7qkVl%2BMhBBq2k%2BSaP9OjpdYizzszvEkbkZJhjJpuKw9XZ3QsJ%2B84lQtp4yM93okCld3XNIs4c1v3db9dDTBz8viQaThKmIn%2F2ehHQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "AZ",
+              "destination": "FCO",
+              "timeStamp": null,
+              "returnFlightNumber": "AZ404",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "AZ403",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "313.55",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=YrYltlvVQLe8uy99FY%2B%2FuhP9kRfsy1s8lFHnXCIL33ZSP1pE0DacJJJbwAG7mK%2FfprtzebPnAAbAiawcKb%2FzD15PUST5Wi4JAt1hGVxjKdc%2BxfLyJGBEmxME4kn8oT1X9oqjP%2FAP4CmRSc0%2BVZ1vThTLJslyxuQWhY1gXGgWN%2FQw8Hr4PW0iTG6P%2Bjn7xx0H930u%2Byn1AiW%2BPhrpJwUmC1huhycWkm6bN9RsmuyAEX3Oj%2BnMhyPKfA8p%2BYabdZW9ilVFE7HV1C8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=zB5DEFEjnC5sUhbQz5cXQe9LvbqsgqgM46CvghpNgko0jy20RzFeUJXHkhYSNitBuO6LL4dhcdasGlWccLeIXwG7nVpVDb6D22fNKzmdsUT9YSTGUAX2BnBN%2BE18GrXkFjvkIrTbSqXcucSla6xekNEwC6RBk%2FOJIUMozZb42ROKycL609mha8KEdr3kRoWcgwWMcIdtN8nHug35GpvS0R%2B55EWV19UHE8FsbED%2F3S9HddeLXTmiD39QDb2L8M9ZcYNIkYQ%2B9K4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "AZ",
+              "destination": "FCO",
+              "timeStamp": null,
+              "returnFlightNumber": "LH243",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "AZ403",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "313.55",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=4aCjoPzCwxvzT%2BSutEAibd%2FafOqpHMqtZG8EQYDQT024v6mMTWsXaO7Ku7XQCNHgozaa%2BXECmd10vFkwm5aA6iJ5Rd4UnRoSXzmB5Hqqk3pJuuYMWLX9kmf9XG4OXlbBhz48RzhKlEwJshqxArE8yTBpItfBqHaYC2pNxeIUS%2Fu5P2VwexEhws%2FnAqDb4vFdNyjEFyrR011tiQLvBJeYsQbIF5frVDoymzQ6H0VfH7SrB7d4QFAT7gXcO7PBASTRy%2BreQzRHRtY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=ad6M9lPnrZULPnYXKYCWy0OZzq5dhfPcqYW7727dnNpA7PuUKe0r4hb67eTPNLr3phX5JwPLnoM%2FYYOfQi3J8NebHwOJG9g48pqaUS%2BMwSCTlEDciNUzu0rv3XOsBSGWuTBKFZfCltU4yHVvUTjQnEu%2BF1kJJchaFJbG6Lje0TDEe6A%2B0gfdXRp47kIQKYu3%2BhtTJa9TLFkjU9cX%2Bhezzd9wCPYLTVl0egTCs7fqAi70QYDy%2F3ZYNRBN3yuNNr2HpV3xXevwtCE%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "AZ",
+              "destination": "FCO",
+              "timeStamp": null,
+              "returnFlightNumber": "LH243",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "AZ403",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "378.55",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=yZNsnsYdLTul%2BU9cEBqPXmeat0sW4SG1t5qYMZvqP8opmmvXryKBJ%2FuAWd3moBF12Ee5cqVRGQJ39McqTGs8AeM%2FkKEXGjU73oDRFazLyfB7pDJgWFfcD%2F9%2Fz%2ByZwu%2BXTa2yHk30HOGAZl5LFPEvj3fnqG9XwszmaGe2o%2B%2Fp8GuKck6qK3%2B7A0vx4Bxq3mjqfwcWrbBn9Isl1ie5teITJfYmmO9tDI7qAchTVPsfS2PXxynaX1nRMh%2BQTXS8XRCpfMMs0D9qUGc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=MXd4DBQlmQvDTnQN%2BC9HzFprxrFC%2B7hyrYslZ5WHlMCaEkXkALLZACMa8CFAEUx6MFq0MK09z52Rer7O8DznEkxjjscgSlYJPrCARKuC1VMRubWPpzU6q0URo3LW6r78pPtuadzMZRjCW6rioRVFemL4n5epfQQE%2FhIYgTtYKz7zpB1zVMUkPZXoCGDLiqadfE%2BGW2WgH3XXETSJyZc3cwbk%2Bj%2BWnThn14333Jwn11ZqfT6NokOaAe%2BNnW%2FpKbu%2BOImx2Xm8QKs%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "AZ",
+              "destination": "FCO",
+              "timeStamp": null,
+              "returnFlightNumber": "LH243",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH232",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "378.55",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=OoT3zxCucdS%2BQR12HrTizK056uPcTH3cyNTEp%2F0bD%2B71YYdZiwK5Yifv1AKqoCBTYqeqQqvyeKFwFvaTPazLl%2BQJ%2FP%2BXsdTYPHVqkwbmC1HvpJWTZBc1MRDmkG8tld%2FhN7IyPPzPmqh45uFiHQZZfuCBxuL5i%2BjerW4a0KypaiULHtiMjRJ9H1E9oF7936Z9Gp3nWZCqwtZkQNDTOXez69vhK%2FVkYZ1y7a%2BFbWcAu1tfYbyxs%2BClomDu8B7AQ0eKQFqrUZCJ0Wg%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=c00gystz4zvnt1ea4Eqni%2FJXdpdF0c%2FeKMvYg6E5MT4CKc175KP2vYsZrNKyQIwu0%2F%2FuGpT863FWn8KsZF0jIkXuqkUzIa0YniRrQu3b8cdv5nHO%2Bcv8sanGu%2B7g1wFkIm6%2BmEFhxw0gzL5rDsK%2BwFhkkNfyex3Vn07A6XmHNQV3VJOAdKnwciPK4wXYQYeqNaCtqJkAYTTIgP1ja2SsOWFGDfmtyInA51VdP%2Bg%2FHVuqQe9MZKVdwnU0K1XMBNVVvlLdIL3dE%2BA%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "FCO",
+              "timeStamp": null,
+              "returnFlightNumber": "LH243",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 319.87,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1410",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "319.87",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=3T%2FYGQRSu%2F8lvRPzj%2BpBW%2FWZvmUGDGQdS8noOkj0IR76Jh7L9Qqixxub1dWf6spa7YAzVu2uhdusudsSLoB0d2tZ%2Fhw5oz7QbM5daJQDgjAyJOpjn0gzRV6oIVZgyJegvaJ6hS%2Fpv3z6ILCHXsjIGQoEXStxsur8rAZQXt%2BFtxboXr9RHYIzifAnQGoGCYM5V0kDgShWSBfNtg2NUkTfwEJYDdxbQAWhi0NM67u2pmo50z7vZQ3jQ%2FBnCLNEx9BQ4brc3f6Pq%2BM%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=5PjgJ0CU2e5Mvm%2Bpob4gRtnSUn9zhBOVJqG3o5z%2FDyFnY5i0quD6Gcc6cwVa2limxRuK7oFc5WFMZ3tGt5HJvvhEHyVZ%2Fc5FSJyaOG4kWXpm19AhCw9mdJQgweZM8S2ozqusdlxzu49xOlD64GwPm4Hu9Bhgr5q%2BwUmnQohwDMnErtkB%2FymWPBLpEnZd8DKiZi0sLnl01hPmbx23iUf%2FAW9q43Roenp4XvYx0xbtaqz3yEuJsz8yy9ZlaXpeKwd8gAl%2B8rR9zqg%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "BEG",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1411",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1410",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "319.87",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=MT%2BiIIpq8WpIGMuoHwfBPXCyATkXHjUGEbLmXO%2FQ7WbsIb9tws1o4jK%2B6pgiqzJYLoDM8l8cj1Gd7aHZQbFonaEyE2ZWuKZzw6SxYAyYH4gG4ByoBLkscctChl5K3NG3a9aovVTYNlhNU9JscfKxajVcTcRHskog8fQza4bExi9UvasZNCRh10Q35UL9riXTGLKruIXeipVOWNu6iN7fWfoemxKQhYpxp%2FNhdn4RdLob9jPGeYDIKEcET1h5oReTIJ%2Fog6LaW0M%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=XhBHfzWfMRmg8%2FZvoPnCVU05vEGwcWIUKzHNWT%2BlRqLJsrXaHKglmHQTIFeM3e1UkqmVlk6v6D9LeZXHvDDSKTijPEEM7xohk8%2FbOnpsx2l87dTDhJ0uCtxG%2B4Pfs84kZ24chLJcQhTlFE0%2BM%2FAa4DXxJXCW3wUwfQsn2VK15AFacUbKjDiAMczVijhDF9JZv3vPuMH0%2FLr109VnyOyHD3PQRTS5h3aoscmN1AEL65kTFPC1uYKXQczpDtrZ4CVcyH6Zr%2BG6X7M%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "BEG",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1413",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1410",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "319.87",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=cAkVlrY51BjZ4Nj7SKgNufdNVIg8lw4XyxYHHN04lZfaYMYLKnFeau7Fj7K%2FDoetb3f5HsyRyA%2B9DQMY7gk4hbt6ne0lvTuvUDJWq%2BOnMxQBK9FPTNzu6MPfI0LK4%2Fr41g%2FMRKArXMMeC47TsYPaH%2F0NCDHAtd8s0%2BDouQn%2Fz%2BymXqrcre2HK7qNGwbwXobeO4kcViAnaVLDY5Ph%2Ft3BBB0FW7jtryfkGUN86SKv9QKqu0KZ588e%2Fjnbx46C3E3ZygP%2FiZmiTt4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=nSDVV5xioEuUyO%2BQgFd%2FrAHnYzUuCJKkJKJxX04A4eLJU6J1nW%2FcoOOsAOsDYZl08OVtawWC36fZrPI6BTrpbQigrR68lFfZGi09YDtVeI9CF4cghU%2B4c%2BKSQZqfVBM7IXJGEkBB3%2F1szixKlZwyfxtgTJAPyuB4Zx83MnBV2fR0AlN%2FxGcsDTqLsEEiXX%2FG%2BP73ecktsnAY0M%2BB2FZ8ENCc2sXDXLy2H9aL8EzakGJBwzyLYwews7mY8cJnWoF6Wh8WePXNPoY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "BEG",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1413",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1410",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "319.87",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=kbOskA5AR8irNy0CGuGhlmmCkrE6ICFc%2FjFcvqx31NvZhEuPVLDUD%2Bu0ap%2BpbJFW7zlwHrO%2F7fRtUS2%2BXHMgtVAQEtkg44%2Bzsx%2BxQ712iHB1WxoPY7Zl0i61jLylfHr97V%2F%2BxEuTnNYDg8Sg7tnhY7z%2ByJXV8rwKfxc%2BX9DY%2FCqXdSSmDXjyIQqOSbIaKvy%2Flai9su70MpEolWOiP9xv%2FeD3%2FePNbbpiAH4tusqnBuqesCbotx%2BiDcxUyDf%2FldiB3P4QxXT7GbU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=4YE90GCN6XMIrm4KNNwVSECUwzJnZucsAPloGswh8L%2F2kzptSyua%2BFZa3hZfRh4t54wT0tm3g2bLo%2FchfnLeyi%2BeJps6t7qdWkq3Pa1%2Fp3by0TLI%2B7LpiRqdewQiwXynU0ZdtAsEhT5yGChVunA9%2BB%2B5tT3XpoTOSnEDLKcrKOAHt8%2Bj5DKqyN3ckgopYyQvb%2FKOLR3BRIEyt4Gx%2BzpN1kVAExwC13n8IDnZcHJQiC4uO%2B7tW10rFpKdptJ0YEjQowLRtZvJjIo%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "BEG",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1415",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1410",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "319.87",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=CMGuhCa0bRr6r050dMrz9H0NHB78En5I43fLtIXohI%2Bh%2F%2Fb4uBgiZ5HkRN3SUB1Fzg9aRY0wgY3ggIUGnGVsYhgGhxUF%2B745DwhD%2B6mzIWQE8AqMCfaMqZ6Zv%2Bi5WEDWahoc7O7P%2F8t7koGq7iMLuN0sf3gUoO1upkDQIRG8U9DvTQDlFD17%2FhLkxDEKuEeaR8R6XZCUUmd3lSta2lME8WLnD0f%2BcCTu0l%2BZO3%2BHm8zXnqzqxoujB17poB2OpgQMOihQseA83lI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=h83SKl6%2Fzzl2g2fh2W6IwxHns1wXJMmzHM9oZcUOzNxuXTqEQ%2FMG26q6mjycdWXQ9eWxfqqhQce0Xz%2FmNTDGBWlFwdZp5n%2FLeE%2F8bOG28baf0vkSwQj3WbvOhhx12gwCU3gSBghqObXAQSo0Oh5mo6Lo9z63YRJVaPh6DQmVuYZT9regFB5W19QBaXHHXokE%2FmrNQt1U96FDRBWTrmCd0c49kTXjX3A2NR0c6MMQEWUV6cVAs0iwK12toMU3ka%2F9ua2ZAWA6ZJY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "BEG",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1415",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 334.2,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH824",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "334.20",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=%2FAnEAsV%2BVGHi6N1G1i%2FoJLxDTyV4xb4YLUkIIqO9IoTtdNXnEcjbSMr%2F4uQ7BJi5gkR0JyAWhTJycbeAPsZETLFQrZesWlD9RVEOMcyHrmhzmDfQ%2BAOEQM3LP7S0n4o3T4AdnJDYD115Gyj6GD1sdB2TdnbP%2BGOZhri02gzBVyxqbxZE1LQTr0aHod4i%2Bzqi%2FHmkMQfETk04i2x%2FBdtZbeS%2BjH0k7ThRygp0%2BdA%2B74a7ZTsFRf11h4QZk1LHCdt0kiYLlRXTN88%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=9RCiDwlZfmd4ihuWTk0GIi2RSe8o9v2ZMa1pSrsNJDDSIA47NY%2BT4gpi14mNK4PHgj56Ypr4abXMj%2BJ7S4sQ6MpupmP2xAqyEQXPksTR1013iTzYpPFWEMzcxkU4xszqW2aw92DVdex25Ihu8OqGd6lo8SO3DysFJlKbacHTHFivgHdlZqKEo8iDVpOmCdYKlKM%2FkbgyhxTjvYi%2BkwNGWxYZHHc2K1XBH14g0LhbdY5uA21kjezK9y8eLUw7CeLR6qyTEs9rQtw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "CPH",
+              "timeStamp": null,
+              "returnFlightNumber": "LH833",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH824",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "334.20",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=40WWGXKpCn4Ta8No5qGVFhrV7nQ8fLSZPF4ebhzRmogtQXriIpYbu8VqYqjCssfAbZ5vJ55YZLg%2BraGkNZZnfx2EXFGbf5CIg6H21xYHFxyFipmBnABBgZzMXIBlePzbKBdlm3YxHX5TduH34V90ihQsPeaFF8uSUD6j962P3xjdZe1QFdf3fnxkQi7RtoMBsgtyXkQdF9F%2BRxLPu0PNdYrsSSnrelqv4xMUD%2F0%2BbkEliRCmiGHJ6Yhs3Gt0rmOwXWeUKfzND80%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=KacMd0BdrOSJiIrIeZs3ZCn2MeIIVudbko0mlyCkPTHP4rdwZSz0bBFy3MK%2Fia7mmf5fEooWh7IRi4T7YWzbwJVVpReDVvr1sLe44FyzPfvD4ZZZtPv2fRl0PE8Fjjm9vKPd0kikLoB7JdW%2F8U4qofVKa0FoOSd%2FHD9tP4u6EsZaeMbup7gnrGJ2ppbGk7BXWJxvOzkW9QEmI%2B9%2FXTj8P%2FCq1TU7JWEVwfekRtDUakOFww267YOF2%2FWvlWScncPgu6LkEs9D4CE%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "CPH",
+              "timeStamp": null,
+              "returnFlightNumber": "LH833",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH824",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "334.20",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=qN3%2B0vkgGC9n%2F1ev7%2BoCbmAFTuyY%2BgUvF4650F3BsofbhbeHnzO7mnIWYH4l6eHueAF0XJWJImuCjAS%2F3U%2FPbGfsH8TEqVg2WldLIXyo%2FELkFHf2LM8lAOVj4YLAsPxIz%2F%2Fm%2Bhr%2FIsIDwFHYkw75I5oietBnsSVCqo5zfvKhDMYtIdAnxEDp0Trea7rf8NHK8nBmiIiN50P8qbTIHDBMErvBZrwVfDB%2B3lX4dkjJXOFgi4LAXZ%2FRyhtcyCjRkLxs9v9Z9iawaYc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=%2FOMf8U1JFBTCJ7ZYvG8AZKxQRyJkXSFDUoP5KwepU2FrpGZFSiQIlvYN6gsAdsvO1sFVPQAkRemD5CnhdISiUIxni%2FLmKbu7pqGXA%2BfklLWtVOEZxSLcaUO4NPidIkgyopx09LT5C9kmpLUxZutXS7Q7MerPvFDayx%2BtRkwoLd4mE%2FUw3qfXv6A44qyyis6W09U7p%2F0bw78cYpmJ4gCXqLACLhHcse28%2BNyik%2F0ihZewqixeFjnfQ1C8kE%2FcAcPJ2GdTN87cc88%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "CPH",
+              "timeStamp": null,
+              "returnFlightNumber": "LH833",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH824",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "370.20",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=K1Gq0R7A5XNDuRp6peB10RGWuajKSBO2610VqcNC1ep9BCK%2B2eqSKlq0Q%2BlISKXNZvD%2B4Goh%2F%2FZL3vOEIr5g%2FMkSGaHZgAKvNPYUSLnt7wQKcc1XamCgaua%2FCVRQQXNlEoUQIvVmgYCQSR0AbPmoQ2K89WZ1brOCxyQ2NaaiRstwEEujN9zIjX8AWAEvn6Iw6ZXlEx%2B7EA8cWTnoCisxHpm3rFVOJapV5bJmPqLBadXbRtOtY4itFerDyYDeWc0mgSWXx%2Bp43LE%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=Pg%2Bg54liHuRY0FgKwi0vYBEqz3chp5XffO59hJYIagWEsknjn%2FaFR3rM4O4i4TAS4VxayLSDzqnP6lYLZWlau7y6kcnxsuq6H6jTxndchTgODWNiPAOgr%2BwF%2Fmow8jwRDPfgVMTzDtOUOxh7OnGoR2G8ssQEKcmfWKurvIJNMCu74ENRV6DiloQEfw1K4L3gK5SJ9GDmzdwDknadgB%2BqXfsFztyM8o2JJ3SGnY%2FaKVMd6%2FXJLqYOcIsuQOm%2BqebAaVHUmvuxaiU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "CPH",
+              "timeStamp": null,
+              "returnFlightNumber": "LH833",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH824",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "370.20",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=dS6EWHXVU4GiowC%2BwjfTGg%2FG1qtnTdYLDrhbqf9hCG5h0KUz30ZBXmIYhoH2AZFm%2FsUgE8M6TEvOgpz%2F0VBI1ii076QONc6W8VrL055dKp9mPjtIy984TfT90ewNseAJVfk%2BaMW01euhtjupyFsCRC1bMg5YW%2FRwAEdSwHRyI9GAnAbasd23e%2Fx6zFCAlLr1XW%2BOlj1Wrxf1F%2F2y9Xo9MbB60G8Qs0Bw61yP3cod4CpgWVKNf7Bzp%2F5997IuGnRAjSOH00InIRw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=eqRWlSupU3LQIujDFY7kKuzlnX708NPNZdOGk1yRLT5s4RIcudK7LzmkWXveTfVc7ssBblVaqtezJ%2F%2B5A1T5wnsX3V5I2kw6b401pBZlmZSpAaVjhqBl8sV2FtL8choQKWtKQdYAfDOHmnF8XEX3qkPB9nRMJS75obZpinqnfZXNVWwOmeR1cfC0vOiPeuiBfavJbCymWH2YYf6YPjHOHS8LjseOzNffASOUynAKbV%2FNue%2BFk6qTJs2dPBiDYZaZuflismYL2UU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "CPH",
+              "timeStamp": null,
+              "returnFlightNumber": "LH833",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 348.37,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "OS202/OS617",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "348.37",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=BC2IAZrDMyIF%2Fio%2BdQQtpZb%2BGgQab5iX75NSj7c%2Brov8L2%2FzLNfdQBPfac2XEGIbJQzzFv68tN0ltKWAQe5jKJOAGp%2BFnWXrD5%2FhuYvxQDz2KEgcdpOAQnX9xY1NM1yFXoEOY9t7rHlKm1PhsajnBdC9Io9gUUOTBFdGt8SPphx9ezqF2a9SI0mbEHDGjyb2Mx3kphJ7fposwAK%2F08%2BC24UjlaecpoVhd2VBOoUIxfbNB7wG9pZ4Wob0QLy83QMxzlBkucgkIqQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=zvpD9zWUXVyDi8pQV%2F0VlaFpgv9UvnrOIamMTzoAGGwwSx2%2BdlloCX0nFoHXct7Yke%2F3eFcqQW%2Fmd8YQTUYflzHteVufMLGWrTKkY6z1QAQvk0XvL2W4gMbcD2AbcfdTiG5oDhlpFgd3wqO%2F3FK%2BbzLDm2mkLfEOhM2rIIT6XMTvwiE9dcM8DlBWw0YDcNqYhJEFz%2BffY1ipMDW9dcUsLPJnQGrsg5XENVX2tHSCuLt1IEOjGLat29lwKj%2FKdQJotIzd%2Bq7DMyU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "OS",
+              "destination": "ZAD",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y911",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH112/LH1720",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "385.07",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=JFzfXOcTXoPFV0jtCLnq0eAjKCdlZG1relYkjaai295r1PuKdKFpAA7gQVFSmBnHY0nQNWsTcP2z0%2FeX0mQm8Ina7dQCV4aBmKLdAPAkabpoE6diD6HYphv8l7KV%2Fm4rwlSLIwvT5fOGb%2BfOk750VHagLL9LLqimJiVPBW0dlNNXcXIYYDk0fjocJwtx2y6poXkJ40svwXieyo8FIHgtafu6cKAP7LHzaSHpTnsV5SS2%2FhKk%2B%2BWj5AgNh6k%2F1arobZ42vIywxK8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=pFN2orkUglf11RuDwMreeF7UZjURY6zQuNKBQ63WeBalPtV181ZowYsRrLLb6YWbE2h2K39FxVSdfLc0EOGlQ%2B%2BHujUqJQfNuXYggHiqyNT19Oeu1O5wZYxzWl9rvsK%2Bm9GzxJu%2F%2BjAw7V8ZJT9Zku66p%2F8G%2FvEBP3V9go4QTpHzWsD6zHjGsrAsgFhzwsl4yxv0fcZcVnief%2F31SV%2FB92wLAmL1NID0UMKT62iGMNZ9f6L7Q7EiTlrVCcGC76A4Q6xjTlbWyoM%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "ZAD",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y911",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH112/LH1720",
+              "returnCarrierCode": "OS",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "393.94",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=lU3rOtEJ4qaSCYonKeektFd7KtvgY5qPVjb5cg9xcnlEFpjmrV636H25FCm95WrO%2FIlqOMcyGLJqTPB7C32Srr6iYHBJZbV%2BOxt5P%2BW%2F5FT3yW4V3001Y5aexY5VuWVbw0Eh0TpveI5zUPE65SHsAuxPEXzE4xIESpCMdsoWb00tV8CMTig9xcIGxj23bdsXHxW7idaYZENJ3zYfmifT%2BUkdx1WaKsCSYKHqqXJdKLSZlvSAT93tN3DDyhwHGtQpLiO44fjLQNA%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=jMbK4LF7UUqqShW9GtZ3uxmvm2cf2r4AteDKHmtBXW%2FKZnLcpToEoofiWHLrcJvga3DOedpe24sHhst9k2cAtXXkaPnE722Jdw3jmMEKRURcdWaluslkrUlGq60j%2FZcKnhsooQkE%2BIEDU2YcBDRVGFFiuo%2Fs3naFoJeUED3ppbIJDU4z8MOyoC9drG0fGY%2F%2B7Y%2Fr4BpWsMsThWJ6gFRq9v7WdH8iCfSahg2gyAorcpXgTgbuAXlugvxEDWOjy%2FfQPDmGQYVAmCk%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "ZAD",
+              "timeStamp": null,
+              "returnFlightNumber": "OS618/OS219",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH94/LH1720",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "426.07",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=TYsbohZnSmsEtr6Wop2LEbgh30AYUnxg%2FrsrB%2FkY7qA%2BZ%2FWRi%2BLjx2LVP9wiC4f%2F5PXCEISYQ0g1s%2B04pMng6roXj0e6gXFla1S6IEmmA2RMUqrnixfgNCWT437nM9v5iGQzgMBPn8rHEFlTKui9AAG%2FkzOcuUoiPQk37EizFFysjompIYvvwcjbeBsqJy2Khc1vCl%2BkWT2%2BnRHRauy8NNqVE%2FjTQG8Eg27FWMjQ7UgFUQMst1V2fLz6VYZUFeG4GkuasMrf39M%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=Kue0bb2v6U%2FLzL79TGfNuOzoxFlD3QxvzUyw7oz7qeM1HVXw8K7jf5Nnr8MLDmir6dC%2BA4u5UyGrGavlPrSlIFef2%2F74SM9eG204ST53oK%2F9%2Fz91mCDkdTPOaB4sRsSynD%2BcwoBJNre5wURrwpW94HZrLOZfOEjnoRkISt4FSFI4cr7jhMQXhxkgyotZtWj11TjAS0tCEShPvRrppApJn8st7IVCdV%2BoJ9ayvrRvdVBldX18vHFmSrhBntRNgTE7nOzxS%2F9FJjI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "ZAD",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y911",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH94/LH1720",
+              "returnCarrierCode": "OS",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "435.63",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=fTvu7X2%2FKfbCST3%2FtHrcZgxtZLxqg8kbUDTQw4ibnBYvRYm7Gos9on59w6mXuC%2BQFofaf2jsntLpsmndf9sWZYXP7kUnJukNlCCqoO4z%2BrNSrnBiJh0W28h4UblNtDLkQeKONAEAzA%2B8yKYu0lATYrhXTtOIi9eE7ZyQQBaAkZgJ%2FcuKMo8idFiZ5MKBelesySgFMveO8fMaBkskrS8hxU9m60SgxN%2FbgZpIoFgSfkiEkQoUtUeZ60i1ppkNY0ECxSn8HOA73Hg%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=4SAxS8lFq5fmddaV2pjIjPBu214YfI12Dds550OTq5I9AyneIHKyZe%2Fl%2B6WjYR4KG29ceN0YSXfPbbayvodLuK%2BF6jq0lqY%2F7MD5JpoVoi%2FAHMLDDMsiZ6E4%2BAc1YolT8wcEETmkQaUbmurj3yi1zsjL2%2BacuRROU2X9BG16GD9ZTm6qYdgpUilYHE%2BkN1Aj6RcHtpWBoIJrIAhChB48QHZDRxocXCp1KLbq%2B5Ysj%2BnnduoPPepgdv%2BdYBXjIvOPY1Q0c5e7TPk%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "ZAD",
+              "timeStamp": null,
+              "returnFlightNumber": "OS618/OS219",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 408.35,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH108/LH4332",
+              "returnCarrierCode": "AZ",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "408.35",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=NnzFSkrSuWrWbj7OVlWYn6F8Pf695JPkHaOJaXwcwi%2FzV2M65mYdOsW%2Fe17ma0Funv8K%2BaYRPRFeIPdaae1H8GNzCj%2Fupsz4oxqpFWf4hk%2FrfQWexaaCfb5rM3pia3UXN%2FAt4YyBJcM%2FG6npiIoe6jcNa5rqiPiDz1prA3QNp5usn%2Bn4mq%2Fp%2B9s0jnQchASMl8EB%2BJDeUfZtjil5vIjfI5W3E5qzNeeR%2BL1c%2Be2fjqTtBssMm7VLvBXqnb9Bt8Rn9eiyvSWiIg8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=9qQ1%2BFUkKt%2FSlL8Y%2FVzU4oVGlivdp7pnGoyMOaup4npjdsEdU77fvIlCJeHS7EdcSmXwrwzd%2Btqi2Urkwet4wzZd6hbx7SqScRm3V2J10Q%2BOrS5JIwA8WJ8ciyvaYK22U8RLLfs1EyItdiuLTLe6Z8io25aIWnjPQcyKSpdTNvz8x%2FdRm0ZtAdxHZ9UgTw3T146fXX%2B5CXKrMnof%2Bwz5y%2BAHGld%2Fn8pHOtUQLWtTG83vLvTmy1VBW6KuvdOCOTgG2P4s%2BKP9zow%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "EFL",
+              "timeStamp": null,
+              "returnFlightNumber": "AZ711/AZ404",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "AZ7281/AZ710",
+              "returnCarrierCode": "OS",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "591.65",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=FryE0FGuuCi7gKKodb3h9yVrIjUqxS9FRQ5rTaJDxUB5coceq46rY%2FttbwPVUIxZUWXkevppHxFxYWj2isUffsMQI87rTpecAD9tT7LUDZfY0ZLQjyPU70Ld3TB8stYS0e4l6wjHOdpWcbuwv7zniM%2BrovIyjQz40dh%2FWC8%2BVCG6qxQSAwQ2vMtbJwccYs3c0XK89%2BQwibDfdj3beUD4b2CWylwJTgFNN%2BzvfYGvRuHESm4h3w75cQWLCXrAd%2Brkm4QxVSu9LP0%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=aJ4BsNi5lrwQ19L2%2Fddw9h05rg6cTo6yRCG8FUvENDKypLw3joTktJwTKMfOFn9LR5W1PcyTJ%2FE73w3BKW2DqQqxR3PnRWsKxVhwKKk%2FLO5zONjK4%2BnLQz6uXQ88O%2FHyEHxswtLwqDXf5q8my3hGZA8nvAxEUDHJAd%2FxTdDaIcxZDPXwxrpH6IvFXBG%2FjPZe2FHGHfPPSSX58EZ9lDDWN8mUCqyj2I0CIk%2BQxw88uguaHWd8rcPZmNX1egg%2F%2Bf45snw%2FWuDYSuw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "AZ",
+              "destination": "EFL",
+              "timeStamp": null,
+              "returnFlightNumber": "OS854/OS211",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 418.8,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8830",
+              "returnCarrierCode": "EN",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "418.80",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=MGze2FY%2BkCLXVzmXXq6hanUMd7EpM4K6JWWxa1jHHXVLAfIcaQvRgdnaPuS%2B10nZIPshgUZ1H4zwBqUL9MCRDdWDo1FZY5IB3tWdu84sCi0VgJzZ9GfnOiVngHvfc9f2w5fzo6BKSQB6D3CgA6vEjIT8VqwqO4iB6IHiYnidEu6%2FjEOPOsb8Ke1ch1ZxPKI7gi4oiUZ8rl2Z0TED4IZBlfXTWoPu19b4S1CpBAQL143D9j7KbsKHQsN7AW81p50avUhPE8B6G9w%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=g7Nmh2rc0wDZBi33T8mFKSMsCq8AW0RMYr3aflAqHgXdy%2F1JlfoVRiJvZQxi%2F9E8nEeZeg0SVAjK8BJBjnkN%2FfcPdVKeGAgq%2F65be5Ipdc1wPzv7ZkoIszK7KHyKIrDI%2BFH6q7yZlJfODsMIjMd2vwaISLRWwNOYpYZggrFNbfC7rMKKU1XLLRkSLRlun3e1uMMnsT6Wnz1Nehgn9j0BC9N6eeWQ6nED2XcCCAzgSqA8ykIOmFljv8b5xjf2DyOLu7XO2bHFaxY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "VRN",
+              "timeStamp": null,
+              "returnFlightNumber": "EN8823",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8830",
+              "returnCarrierCode": "EN",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "418.80",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=bECc6jE0P%2BXwawKaAfwBjiaO%2F8jOndoVk4F7uUxsOKtGD1Kv%2FoI%2BQHna1mcTTnkaMGWJV7I%2B8oDKeKEq4DQqAisyJrrJl1Tyf2ajrywqjP30HWdJ6P%2BthNxjDddy9tIxpQ4W0BEmzpTkXJjTIAyXegY5m3XgcEOkY0f7SRGl85pWNGogVH1vwsnPHIslYKBE6DlLnvOQ%2BmqUf%2BDljxRbtQmvOLpO1uV1X8cLPqgSdOgEW8PZhvpoqgi8YFg5Yq2KZKkJyd8LkJY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=25%2FaM8%2BPOxtMhNDEkLXg1MM%2B%2FjlG4auBmsZTrkKdJvSSu2SoYbPj%2BvD46Bcm%2BIbPpEUv%2F5Xy%2FuCCR3oRBrTiwaIJwaefq1AEeXD3KYANSJDKs%2B2IwWgpL1bWF6AKSBGVZvMZhdFDpBg5u2BHigVN78Qgxs59UwdlBajtf3v1DpcuJ%2BBC%2FeUMBdYHHueD54YLnjA8NC0vJwzZ48jnmU8%2Fg%2BAsEbFqetG5QWYZHJW2dOfIYqWduJ46Ax8XuU2wHmhyPWcQKSb00tI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "VRN",
+              "timeStamp": null,
+              "returnFlightNumber": "EN8823",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8830",
+              "returnCarrierCode": "EN",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "459.80",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=qqnwXEa06tzLHb3JH4cvL4NHNG0PFZLxYwhDzrgEn0Yf2ZWupWZtZAZZqgcge0d0cWA8QxPGaoTZ5FPA2FfiNO5RCcRwuFiFqdtRwUT7p%2F5LUX7MdFDxDbSnFPiIBkeQkBBvMEHhhjXNEwf0a9uJyK6dgMTWs05AR5pruA46xapVXXn4u55VYOPKY4bR0HR023TzDcnZGyaVheiexz%2B63bkJvzZCWmTseauwuWvZ1BGRc12DPqbDxJ%2B81eGQPeDjtr27FrGjuTU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=Zizzs5CtZ%2BpuNBf8gj9x89GuiVNgrRSg0jygxx7%2FVSx%2FhqgOChYm%2F%2FcfnCAYf0DmZWWCE3PUf%2Fr4WZNZer5XQKrbV4yvj3CL9aSxPnzVl6aEUeRhoa7zxelekbSfV2mtnarFSUaNY%2Fa0A9c20I%2FvKGSWKq%2B3KZlOZWsGQqRLr%2F0bvjYtma1ZQJqhD%2BqXqmZUmYmmn62OLv9OQ3GB1mwWtywNnFK2pUVV3Bb7fwlYujTregULPTfWIjASSlSk8evXhaDKaIG34BU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "VRN",
+              "timeStamp": null,
+              "returnFlightNumber": "EN8823",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8830",
+              "returnCarrierCode": "EN",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "459.80",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=tDbeQvmH3m7RN5mM3sbRQ5FTsF6LBHYbMowEPn9qIg9WgDV9f6TGoOquouOyPa6WbMwF4KkeKYXeM4ZZpcCLH%2BL9AStipDN3IXqUDdAaBC4r4i5P%2Bxl4klVjhZV86%2FLJuroFKSe%2BtsQCuSLT0ud8SlbH5EucZSp7NmtXoNf92bMhITMtcMcYvo6Iu23yXAULPTvUQ4GEpmoM1AycR9Wo%2Bz8Y70EoyD3BdvF7K%2BAD37Tkl9Z8njZ%2FJ4d4GmbKLZdBYt%2FAyfwHAwI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=x3JU1lCS6XtsU0UnAfujqbBLcaYCBsiX9h24zJaWU7KS8wNxB6b%2FJIuIDmkeS680zHX1m0KZqEFGvl8NbuI0B6er2hfG5a%2FeX1tDRLBDFFptYPWGu87dMBxu5EQl0mJSB6ecLaODXrllLMDF15GmD9oPH%2FrANniWOVkTjX9flqxt23d6OesnkCRo6vNd226GMvyqjtLJYqrc7o1ed5prQw0tHgpMVbYq9RuWMkLklYxQaYAq4RhK%2F8%2B6WGDsniiiDGwpozzKY7A%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "VRN",
+              "timeStamp": null,
+              "returnFlightNumber": "EN8823",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "EN8826",
+              "returnCarrierCode": "EN",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "459.80",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=VJuaL4MnP8LEQC2zCagS6ibU8hDIKAQCUN%2FebN5jxW%2FLu96pCk2GNDsb8Xlg6NjNa1EnpQUG9eHH8HqUdZNTe7c8215UwgPlpB%2BXJ3alYqOBGOsGsOzzqB1pao4ylqODfb76ijVFLiqxmO64K5KeZgt%2BJuaT5avRpX44DXuinFH8Py%2FiAGL0LbyTD6x4vCXXX2uui5J7M%2Fj7U5q6128EDobEIMLLuSrT1w%2FxjxFdaiARCQBIcJWMfxbNty240DZ6XVimubH35Gc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=tvFzAN06S%2FTlXtaQ9O1vvVMCr2TLsv%2BvZaYDJVhVmP%2BP0HXJ2f8PETIewHxuGQaLRfo4QTUWi%2FzZ6q8IXntfBREVGd04H%2F0pG%2FaMg53Ggwvg1MmMFtI15kTZ9D1WwDzWk1ygej6oG6IeRIVQ2KlV0BAS0s8k4X9GT106%2BbdbWynEdj2F47VZIpgoB1cKEezW9Hr2kkRIDMCn2bsLQlC7VDJBDPaVQjjTFW2QwfFhdRpFlZ5CwyOPI530ophn3C%2BBLojYusxKrmI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "EN",
+              "destination": "VRN",
+              "timeStamp": null,
+              "returnFlightNumber": "EN8823",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 463.51,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1298",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "463.51",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=Vp8FITWy1BrFKKnrZAr1GU7NdO2ZCko9ym87pfT9zua%2Bwv964ag48XPopiTcYbJ3V68diHnfBW70QJ8w2%2BX2LSX%2BlKfqNU9IVwKuSs%2FFOLfG72N03flAi9aS4HTPOwSJR2JFkfKoCPo7RzPP0v1zBqFB0J6qCBs5FRCMeJNlA5IJiuenP5btvfdn2rkbhtYVO5QHDhToSr0ER%2BCTD3hgto1Kfc2IevqkvOlKtEAbOGHeIw%2FBEfAg73QdexArGaslBEA85WOMPr8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=7sAZGdG6HKXZEC0L9sOL%2F7W5VT0oShQ8nbLj6k22RjR2TiPW0cyX%2FXSss3LKcpC8Znfu6T%2Bs1oLOKzPyl72%2FZdUAx9zrUFLqdv4biXwTgf%2BCqY2%2BxEg%2Bhqve0VfREwRjbXUE%2FxUB0Eo82dQR3RQMBlM653WbCsskyFn7Myu%2BJ5LOJlhELYLLA1lZawrRGtOSxP9xWoMHFAVrJ7nd84PRYaHmrBBeN1L2mH4dK30BB8XC0aKJE3gWTQ1Z2OzKd2B5N2znvxVfCn8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "IST",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1299",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1304",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "511.51",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=kUjZGA0%2Bn8Rdy4pTd93pdeiE9guykz0%2BAWuI8mn4Pd6bogiZZjPZd8WJG2W6vevNLOfO%2FkEVJLVPhAgKh51Uj4G3S%2F%2BsziqoFfkZHCjTOfxDamNKSAc4D%2FaNNoYxF%2F%2Bx2JwAcjpC6bOH8s%2FA%2FwAIlFSGnkxbtBlV3rocdbDViy4YPYgj3FVRDoPjVk394TamLhqZUPEWcoaO6Hmim5b6F7s5petbWaJcXYP1onhmrQTyvTS60MCTzrRZq5jUw%2BXO531KkRNyLwU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=oiGxLAwma4nBDcEAEkvA4294hKK6Jws6n7cTxMnZXTI874cfh%2FGv30gQPkWnuOQV8V3bJz8YpdYnGPR6ZlrA9dm%2FRV32vVyiCReNnZFitS4A8BBwtKCQYeeufrld9RyLwBgXvEDtsmyrMF4vLrTz%2FrFDx%2F5eMDbFvbyB63ZeGDO124kg7KGzp4EM2bdKjW8OTuFPR9n3D8T19nexad2deTUrXpCH%2Bu2NY5A6kvAN%2BP%2F4TUDdDFFVR0eyabuMO%2Byzj4WS90pQFI4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "IST",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1299",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1298",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "512.51",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=LwWr0fozgrzvNMk9sxYJg8yDeyBBr6slo2ExXNzcX4ZMHJttpNaenxtcFIm3mTJZ7NCb%2BVHhO6%2BLz%2FSO5QYEM7Nnbeg2pF3HhKME38A5IDmWavx8I%2BbnJVcX5a9qz7%2BqOZ1ZfQuxbimgVd%2F4HOdzFJa6OyBMrr6WRN2vEMTKCkgHuXVxR%2FNzlpYYU6PXbEY1%2FQP4RUguelMK7jbWbYbn3STBmT6Zg8lslHpiHJf0bSrFqHqfy5%2BrVgosvWCG29%2FXemYFgNo5qcU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=8YXH2LercOyqb4CB%2BVs%2FJhJCenAH4JAdEX58331omgWe8fZ1nTj9JLWHtGin3PBjAmc2TPw31uRiYMbFNKzzkN6eoBdZjxdR6cuzGu4p0InDuZ7BGRK1PMzfGIyOgv84JueYA1l%2BgyT99j713SK9BBYBKDeJmj4s9jlzbCsYyZw1oOFxPnhwhX61wbE9Kbl1gOk8k0s0xCKrAFDdpzlP4Hv8p90e6MeB39OERwVA%2BL7SvdLJL%2BZEp03X0VwqaswnM%2BOEZ1Y4V2k%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "IST",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1299",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1304",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "512.51",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=YTHqh9LR%2BALV0KMF9IxaTCpDKe5j8N9h3QWx9HNwE6A7rPbfLXc0R4JAV3LFt8zgKyijmk5THleakTgJ5pfFKG%2FYU9lHq8YggLZxzFo6fuuwZCX%2BFyhihxTi31KColECs2UHWzBZ8paeMGRWCyxMlo6Wdv2hl3AGJfRQBCQAm54b94ow9U9KuPdp3m49KcFpyRd9aGHdqg5lcOII9MS026EeT%2BajtLOor06Vy8iGWONx0aYGS1sO%2FmxbqEglLpbbj9u94NYMHg0%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=GYfeq7G%2FDDEEcm2Gh3t%2FlFrFhcBmcvRpdbSK6B5gpnd7WPsFmBk2d%2F4GbfpTkZtHtMbHx%2Bbh7PPSNXg06mE5qNJbt4dqPTU4x%2B4%2B0ibU%2FQvBbL%2FA2ZyEWTzSmd7uqaMv0tl72q6ycVMtVFUYGVIqTzkjNlR5KDL7g6pIWBkbrU1mzfqz6wGXCTo1AfQFI2xKOy4Hu%2BgOXQRzGLqkmfs59Vd1j7LN8leDadY5my91TihWBE3kAACRNZBiQc47Dj7Rvfl2v%2FAIxGI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "IST",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1301",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1300",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "553.51",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=4ic0ipGAyFA8MzRfzE5oi2i%2F%2ByOqmYn8YuwzE6IZlLCw9uRrOTN5HfP0sYbiVQ2F5lfH5qAjYnnY67plb0ekjhz%2FRsZp6tI9yrlaF6zsKkqgBZ9pBjjk5dXcsiANFmLJLu6riKWlRThhbkmd6LeJ%2FhCU%2FK1%2FloP9fkDjPBgHK%2BU3x2opQD9uxdw1fEftFDstftRC2r2%2FOgv5MTmAcOzTx1hIIg6JDRDVaYpR4qaklEgVLkOomO8SnhQOFq%2BJwK3qUw4cjiiHLD4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=6C78CLsFpyP38aQNeHNlFl3yfJNSw4JhLZNgP0vhyE9AxG%2BkXEC%2BPBJ9WkdS%2B8Y4b3pI7v8QGcccMaKRT%2FjITdHoB5ltziQPIMrNZnDMDMgJFgkZkGhwNvHbUjI6ks8zg9znEwJ9rQbBKmdCJXpc4E00k8%2BYDML2ptjZogtLIyf30GBZaMNmOae0SUeZxFoK6fmQuIKuZNx981jTFWydARAyrwJYS4UDkX2LEYRHjq1O6vMyOHnTTNr9aheFI%2FFVR2O%2FtSI38s4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "IST",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1301",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 512.66,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "4Y912",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "512.66",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=fNPaT5MBMK3QIfzmt57H8Xxp8nGLAqV9tDfRofEC%2Be0nLW%2F9TEwPouPfiC113513%2BSU62ydyotb0D8qGQqxle1YqI8mafFWat5HTyvXIEqg%2FADAAIaCkK86XySPMO%2FVa8qkBwDMyuYExf6n72fy0d%2BITkZADku1cMX%2BNecjOtIugP44ay0ynYYFo9sN9LVgLafYIaZ%2FecXjUE8m4BZaRSDRn4yenpE%2Blafl1zPgoTNb3oFIq8UDo1FTIcijuT92PTUZZIHBO5pc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=w4VmyyL8KFTwLEiRFt%2BE70oP1e1QCbDidzaqORNs2Jf6PSiHXZaBTxfzJ3%2BiDMQO8ARLdtfYx8ORsLOwnB%2BXtCEPwy29vED1Okm7jhHk0Zrk3gC4dkuRVn9iRZgw8bVrzSt1ZSs6EhrwWioY9ydcEPf1uMG4sshF4wzfHcmy6WmKUTWO7pedld0NKGByhmJdI2v22KPnWaaDz%2BDoyV24DuqylWmPmNOGDKWQwOLD0D4iwEFM63E0WVGvDxaTH9BGhPXSBCC%2FB08%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "4Y",
+              "destination": "SPU",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y913",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "4Y912",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "512.66",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=wEan36XQ6eRqMo5rOup%2BQq%2ByOuahIahidZfmTSH5tmd8%2BcgiAGokT%2FLH0evv%2BCRMQoSZNwBVXjuLzV1nJqYzjuaj8ZhlX8uMjG213kN7G7EVhgN9HNf0j21%2B5gCVT0xfwHJ20%2BJZBvRGYnuAsKwxTpcItVRxUIJJ1JGqnTJZQYt4HZ%2F9FHxS7r8TQ%2BRjqo2f0hsMk5JcLUrfivAj08ZMuGGZvdku1X3spOa8YENGEVong1cxqboDE3aFe9Z0nwsFshaL8z8Kr%2Bw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=zecnRxQsDgK1u6cUO%2FufX5%2FxLAINwodDNZ%2FGbGflNb9pa48eb2h%2B8XgKfLkKV93y%2BIDA5BxH1Z5pHnutsaujsg8Rijx08%2F6Ta06WXa3CIzJxIxN0UY1QSTLtCHA6I%2Fi9XNeag5WU9UDldw8nIUu%2B6hUyO7uFQT4fsWoAEIbkaYyQpKUxT0%2Fqmd76zsSE%2Bmffzj%2BHNzhQh3%2FdYicFlXjq4qkAEg85jN8IrJ1%2FsldMkhailKadXeMXV%2BkbPgAh4e64QJXQDi7bGvE%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "4Y",
+              "destination": "SPU",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y913",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "4Y912",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "512.66",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=PnKtaBbdOzxiJw1EGLP291Ajq1WdeY28OBU7iuPjEfTPDLF7PIwF%2Fq%2BZ08f0ySPvD2W2W3BxBv8%2F%2BVitMTm7NhC3xPW24HroMty60eh4dEWnwxBj9xCFGk%2FfOuqafUBFB9%2FY5yeN1VtrOGGBWaPiA0SKONnHm4xzql9bZJx%2FQK5KU1xh474fnNjCvYV0Je%2BTrOFjh2xWV4eoeQH%2FZkutcr2bJlMFl3XLhDmVNe8%2FuoQNzDEli6tS7zbW9Vd85hvbMPw3cMqlJ6w%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=ONGSpTvrIDE3L0PnZxocwwIHgcXx%2BShSNNqvELyfKzr8xQyZjsW3YqUQM62pssrrLswUNIOQcxncQdWG73QMz7MfDoUy69eCV0wN9iSO3K7Wz1cuq%2B9NTUIEFF5NMHgCR7uZZ02CBkHMrl%2FGqiVdpVSLxJdrLSx1pegkRnQaX2ohqyQGCgbU7nkO2Qd2cbqaJLDiZVP9kZuriXYso9CF7yFBnO4U6p1bHE8%2FKTAnrS%2FmTrtRQgwv1VIlG5iBcf7oIllyCb1soJw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "4Y",
+              "destination": "SPU",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y913",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH108/LH1716",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "571.92",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=7u5uydVHPg69ofWAER0EIKdbw2dhy8IvjRIkk5z0r3jYXu0wOXqZhx3Xs%2B%2FLlaSw5OuR8B03gJmwdfKZsEHT9%2FCypG0m9FOj9J4G9ZQYV%2FrC5JpYvuKQwUqCKWE0D5KKjUm1Tlp9YXyqgtbBEQQVzxUA5rV4CCxwIMXLDYHUjUmuTWiUTTkM67xXEn9PIkkUPmyZBx4ORDIfcI%2BQN4OfjhVhSSY18tFSMgGUUkuo6mMTxXXTGRdIu7UXhT6zUWIH9uGTsRjj0ps%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=z0Vm0yuDf6ViXoF65Jjil%2Bvfd63egZ23n9%2FxeFyJJLtmWvZFQHSserECP3jPNRBcd60oXjYh%2FE0GePJfuvBNQj82ZDq7lOPTUT6miA4koPvebrF8HTauvoxfZV2520avz3HUJ%2FSCHqlCM09AzyCJfg2myeaDIHG1r0QvyPV0KMwweMges1JpAgO3WAosSpHSxWghtPJoZSWrXuy%2BjaDVounRancRLRAMb%2B2i5np9dR3%2BXiDMIaOSHYuW%2FNC8MJ6%2BlgNXjHQ1RaI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "SPU",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y913",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH108/LH1716",
+              "returnCarrierCode": "4Y",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "571.92",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=m%2BhhnuhwUgG4JiOChQpq9%2BjgttD%2B4swgvdfStxyhXoGbtg1cM7OeguPhEItxMY3exvpaBueCLJnb1DW8%2Fx6T5OZ4yi8ix2EWWoz23%2F8HsUVj45SoZFnI69n%2BDl2WeNdK8A%2BIPVnPvDp2jxDQPcTEC6b%2Fp8j7MwWXKSi1tv9GhNUJUOrqyClVj9Lo4YdJbaI%2FNF7D3op814RtCi8MS68YA9ls%2BynZ9IIL3Vd33A05K8Yc6w%2Blhlnay9KuXO%2Bhi6Vm0pozxB0nxSw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=dm89g2VhLwnSA3MLQl%2Fe4eWfYFKFzo976HjKX3mMdhLBxEs3LDIRwYtjIWC8JPkE%2BXjnKet9mx7AR07pNuGLU7gQJelvDkZJt47vUB2giWJ9%2FA345Ta2b1K7Dc9zgGb%2FceEFL5F%2Fllhy3plOTsj4AX5DOzgmKTy50GT1MBxClWQbKNdrW9%2FhABgSalD%2BiiJi7pB%2BCIMt54DBeyq6WBj1DK1VFKTtc2BhLXVZdQxc2ZrsuxHWUi6ISeAVPJe6ty8yY%2FY1WW22nxI%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "SPU",
+              "timeStamp": null,
+              "returnFlightNumber": "4Y913",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 513.87,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1166",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "513.87",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=w0SwwiYSAqLhd5U0RW9Zt16DRn1BDuVx4F3H9tUenlIKFp6lLsidE6dZW5g07y4EgwvVirBuIm4Mhi8HK3TideR1%2FeUgq6Ui4wMVQ6O6AW4cSKflzpR6QRO8QNrjdyCaw31eU8kC%2B3xbjqSQzIkQtGbZ8leLTgfybTWi02mYaKRwbBgbuAES6Ga697QJToRNHjEm0R%2B7vo1No5Qp%2FIA2DIVChWKi3GeFjAgE4iadUBkwT8IqA6ho3P%2Bb7koTVa1wZz5krA34GmM%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=wBXSoQWO2kI3en5gAJ2hCA79B5sCXVrcWt25FOcp2NRuXiXzq%2FPTstPlg0Udh2kuZyTn%2FzZn6eN9NzXCK3RXJn1pjV5CxrtE5NcpdWTL20danyxGfEPESxe6QRnIGrPpOIxzmvvhZAF25t5IGbc0EqJNiRsCg5R8%2FfX5DrS6epYKQ7X6nBiEuhJXfqpsmuSU%2BikzMCi%2BZQGFNJNa8bkTZV24F8HdXZ16Usoh6vVZOxom8Y1nLQev8JUzFTi0qGucQ3ihsRIpWs0%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "LIS",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1171",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1166",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "513.87",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=WRkBhYLD44GJf2kfIED1w%2BrrGXXbZ2bCXriliGMHeUT7rCIRs84yrSZB8%2Ba1TGRYTsO51Okq3zZenm4z%2Fdr697un%2Bx%2BQxGsEkKLdsZqKnVn5QkRa5AvL%2FQgENKa2ZFjvJcMefN9qh1ov8zAQV%2F6BCWsTpQLGGGzkKxysMypz51ZhjL9GJnEMVh6kmS8TpfsmBr4VONCozHhY5QwCN6zTpB7gjjLNET25s1VTSHrFjNK%2BgRAqaeqLGzxjXR%2FuicBsTTGC9qNtrXY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=05ysthsn%2BaNj4gsqJkGB%2FiLH8x%2BGgwNml5xBTp0FvBdwZjo5ooIJ2B6MPPxoepPi6DgKlnux6QW1UnfMgCvsQp7ehGS%2BVmRM6MMnBgGIDCkBunwpF11McMJ0tVwIr2pgq3Nm%2FPt8x0I1uvqDZomuWVg3T%2BHqnO2lEhpSUYnb%2Bk4oLbzx8XZDVZl7TTTHgUtZbYoovnq0Sk6CFQ8QBMGkxF98hLSoP8e95%2Bl7jWIHwX3oJ3Ff0XqiUOza0bvFBAL5Gz1OwDAD5MM%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "LIS",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1171",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1166",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "513.87",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=0p2V58%2BrazAuai7WZYSfIHGFBLQLZInmTjaGZteJSEI8kJ6UWA%2FugAVF6HrzRPi%2Fyj%2BuX6a6Unhc3Fit%2B%2FiQidkj2avHL%2BGxTwItkQbAdkF1IbfDKga%2Fsz7OH19%2B0QIPrzkbp4a4WB%2BTnXWZAtpmKFkJbcymbGMrh6obRRYW3dbrwMwB1AJ0JBcwHSzZyAU4vA3%2FOrZNhI0R9X33GGtjcdh%2BXV2Bh2PSR1LIfCoYtZg%2F%2F0q%2FMeQFdqHkVYUpAwD%2B3AkTH5euDKA%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=Vgkyaf6Xl%2FdsuiB6hJgG09UfjF5vNH9xcfFxyzheFH0tgyHnzMy2U2Q40dEEb%2BM22Y0PF8guC5EPccYEqycrYphHq2lHSu4F2MGGE%2Fxj5gEC8zwZLrTnzoGwK2f5ZtneVIPyEZwyWWw%2BGjFIt%2BO0C9I7P0OMj3fe8u4FMeTEpJSwMLuFeeC7pKkNVvzu1NRvWSmpwn6%2BAJ5nf5DRuguVNfo%2BzfHiKJqmferuYo%2B5gqd6dFCEqdv17UrZVliUQXOjhUqmRXob0Fw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "LIS",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1171",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1166",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "513.87",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=7%2BN1E%2BiRb0e%2F76qQRQwMHG2SmVy02rIAPKBCEzZTqdDuC1xjVM4Hf6xDPYpSXcRxxvShiCbQ99NLvcEDt%2BoAsOA7%2FzU82222lBNDkYRhKAyCDAFkfxm2ty%2BvuWGhOMOWl3iLw67AZTtODySc6NTPfFMDKMKAqJujB8vjjvlLJiqpWQO6dyKrWgqzmQYF0wIdQ%2FycewllsQhmLENLde45Ji42yPuXSTTyffMDdl8dOrvYw3HwKfFIWbHKKRA4rQ7DYgqxbKeD32s%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=cDZRyCKXKaAQNz7FHllq0PA%2Fqs%2FffWq91dqDO9dZ3JplUd17WvDtctHR0DGErnZ0C5CIHYfBrbM2i4EfdzwmRdKav4mZSGmvrVAId%2FGseuOnvwWr91WWBku74tY5DrcTwlMtXOvJhy8SJ8eA80KVzW8fg9%2FItS2JxxcyotiJBJXud1Z3%2BmidKq7P3oj0QH4Z9%2BlhPYYdD54caILXvgaxj7sNJiIgDajgGQJC8WPU6gZqB%2BQPAIKUsOhivw%2FAjrgPkITxAihQeCo%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "LIS",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1171",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LH1166",
+              "returnCarrierCode": "LH",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "513.87",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=fS4XQ62YQkQAunZxdxGmswAB1kneJEBt5rzUt47HuNXgIk1V2lWftvx6wW0i149gu%2B2IZdrSOdcqG9E%2BYg8OrbR8qZPlSj1Ab6UpVanrl1C0t0U7Jd4XEc7aX6vDBydpYRboz3ohxBSEiFpswKFTj41fSenLY3xGYx3e6vZSFV%2FCUSPLVSRHjdgr%2BLq7s2E0uf31tz2BmiCIecZkd1W%2BXJ3bJEppmGZFXgMsJQSkOV6PD2WyumcTrN0jOi3WTvc%2F3HthfFgIM78%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=mwOMAOYFty96zJ4ysVg9oKUdknHZBzpfPAlpT47zMAa9THi86zyLYRi789aOi4Y02TXWhDm1MWOnvZ3Ceyj2962lKMZgYmkH1zSz6FfKv35D%2BMBPQ%2BoZvSKErITuGIv756SiMdRHeY4diXVMPMqMnUD7LkqOQ0QiXvnxADwLoXLSkrgyoUGs%2BGdlpaFz7jZXse3G79kbzyr3sUZnGACCdd1kLJ5N6MTOBThogTrB%2FqKkzd%2FLD1cVThQLjd%2Fj%2BLr%2BjKIeiSTNCTg%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LH",
+              "destination": "LIS",
+              "timeStamp": null,
+              "returnFlightNumber": "LH1171",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      },
+      {
+        "returnCode": "SUCCESS",
+        "refPriceAll": 602.8,
+        "flightResult": {
+          "flight": [
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LX1081",
+              "returnCarrierCode": "LX",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "602.80",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=65dLYxMMVpGYm7jcRs9yf0rQ6ovlw%2F7pEViLa4Jqog2ePHr5x7CcybKNSN%2FuO%2FKx%2FodF%2FbNZVIEJ0FEbsq2z%2FmqyR5Cvu96KzjHSflAuX60o5ghWVWDLhttgZNYFemOe8VF%2BLvk%2BZdkIY0%2BVeW%2Brg4C1no4DRYXxAUUa%2Ba7h%2Bw2vawTJKJI1JpBBMycMytjNCgEkZaBSq3H%2FV95atTAJpw2BOYXPTZI%2BNGk4VyRPakpN%2B%2BuWOrJZgv708D34B9htHy0OL%2B3oTn4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=lzEMYs5EOX49AQYEMGhy1J9eM90jwx2pqLlN41P%2FulFc4qM9RELYaV6rbhP%2FBa3XcC60SlGBhfk7f%2BixLupOzNFm%2Fb%2BMBkPv8qBCBX7QUxeskygFwyAMctwnV1RnbDaNfn6mIc0ZqOxmjUMPpsAq7uB2YW1Lv4ESYbxmpHai4EurXnIzOrXqRbfV9pDU8umhj0u7RdSwGbvIt4bosgSEV1zczBJXwQ0onTgtMxTxroDzugVy4X6Y%2BKVSN9jPt0O09b1TF58SWHQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LX",
+              "destination": "GVA",
+              "timeStamp": null,
+              "returnFlightNumber": "LX1080",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LX1083",
+              "returnCarrierCode": "LX",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "602.80",
+              "dateReturn": "2026-08-06",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=G8YUIiLBiVKqhci4Kjli8T4t3j24OkYhzT3SRznpV2AGvGZSSjVhlkWe4%2FKK4jQZCLtoUU9Zr69mOfLD6D%2F%2B3ED5B0%2Fxz5x166EDrqhOC0rZH%2BrdOXj6xAZfCYMZm%2Fh%2BCGtJleK%2FJJusv%2BEu2EYZaGgEf1pYFfr5LCC5%2F4tJ80IDJK64qAQZW5v2%2FQYA8N1nwdMVeeGVz023RxLx8WTMmw31eP0iX%2Fl9NrGaVLLAMiHlCjfKUMHqHpy%2FwAu3uAR9JvfMRaZLokU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=J0cVhfpKBukYpz%2BXJXh8CBBQDgU%2FwPzQlCw1a3E3wbczW5X6US5aoSwNB%2FLFQq3sRuNBnywUr%2F5H8V5LCkFNxeWM75HpAq0f%2FkJt9dD432SOb8B9xsSQCWlHVGvdiP3TbuaJssbv0Waxt54LJCuF9o%2B4Alg%2FGgywvlL0dhCCTzmrn2o9T2iKHAKe01PKiDYL2WF1wjSJ0wZP9Wdtfov9tFagNNTF79Rc42S6cHU1TphXSzoqEE4LFkdZ2YSUs2kv0kxZ7cjLt5Q%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LX",
+              "destination": "GVA",
+              "timeStamp": null,
+              "returnFlightNumber": "LX1080",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LX1081",
+              "returnCarrierCode": "LX",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-04",
+              "bestPrice": "653.80",
+              "dateReturn": "2026-08-05",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=fgeF7944q1daqsriFRlI0SJygCPZGp%2F%2BavMf5SjyUsLme7vkUOis7KAKoMflBgT8UiESBiEi8tpFL602LFLNeujTUROC26SIeaDVW7Um8O0vyvg%2FnwszGcMQL1pdyZETDNM530pY6fUuUQ%2F0Mmo7TQ%2FhFLczW6pLEIY9uesp%2FC%2F50EtMdp2C5LHhEKa0VUk8R4a%2Fr0Rdjf2qlUu5FzWEwBb2Hsg5Z9zZ9OMB%2FARMLATSZDLWV5n%2Bzi6pdxC%2BidTc68Xs%2BTKXRCQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=rYOrfeq5cHunT2YkmELzCS5qlrFgGffsFoRuzg048hB8jkeky58Dc9azLMVjG2iFmzRh%2FQKefMAteSrKVYw%2FIksruM0GtCxcojnA2HvtvYu7%2F3gUi0MQfSf9Tb84QhNAGEdEZc0DIzVMPhvyYyDfjuhjwTQNGbar3%2FYoqcG6AGKBEbRfVcwZlnItnziMAeoXzE7B5H1ncGfkTKh9Gu%2BGkr4Fczs0rfXqOAwSk98wkd7FGYIJpYkUazPJWfm%2F0ynjDeL%2BVoPpVjk%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LX",
+              "destination": "GVA",
+              "timeStamp": null,
+              "returnFlightNumber": "LX1080",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LX1083",
+              "returnCarrierCode": "LX",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-05",
+              "bestPrice": "653.80",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=voEkMdGEsAHd8bphvgTcV1R3Fn2mpcr1OfkwI2axdRwJDw1MBsEP3S4Esq6NcXgIouBtYwuFgzkYOUKZqYNluC%2F5gxSe5C7pgmLPejMvm9ksEeUaeGmD2YnafNg1I0BF0GEmvkKgggOgZIK%2BxHi1WbKn67Nk1mpqJ4n5Ge%2FK7FZlQExxeEQDK1cFhAp%2Bd3qLQ7DeXnZxKPehEfK4aOfbFNfNZnf0KCiSqW8cq5w7V07tFAMoWnIEdupLO0ZkiZ2MyEvfF%2BdHuhs%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=WXEyxsR2FS5hBPJpjgB7JbvmC4SL%2BE3zCPx4o5%2BT%2FvaPpzH8qbofD6zkWWQFGD7eh5P6BFPr89XrDm%2B%2FCNOoaHvNtIOud0PiOtuk%2F2ykRZ5m61STOQPBYYK0I%2BmLiaCyD0wv3YqMxe8e3WgNReGlp1Sm44FQN4CNHPeufnRMO66DKnswyg83QdI%2F3OKV9pXU5RSiuO4FIpmEA%2FPmuRPIaTTNfNco5XijpmuVWSzog4rjO%2B1RZYi8JxLDB5KOp2fdOQwcj9xtDt0%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LX",
+              "destination": "GVA",
+              "timeStamp": null,
+              "returnFlightNumber": "LX1080",
+              "stay": 2,
+              "locator": null,
+              "identifier": null
+            },
+            {
+              "origin": "FRA",
+              "saleCurrency": "EUR",
+              "outboundFlightNumber": "LX1083",
+              "returnCarrierCode": "LX",
+              "outboundFlightBookingClass": "economy",
+              "dateOutbound": "2026-08-06",
+              "bestPrice": "653.80",
+              "dateReturn": "2026-08-07",
+              "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=bZy%2BQ7fSq%2BmDgiPN2EMTNy3xBlddwm8qhB9%2BkhTIeR8nrNzlMJsVmOgyTkegrpbV0UPpfpVtDj1w7FUBoAG%2FtRKShoKIwXxF%2Bg0EJ00xIHrpC73XxlXBeF9yTXB1hHBZ1XrOUPmSczErYJ3QV748XffpZwRLjlbPzl9%2BjIWqvPyENgp6ubVjtAIHKoNF3scV0%2BYIyvrtx0Ti79AiUWj6v4J4VwQhoO26C60pa4dvRB%2FPGmwEpx3wTuIuUgIsiCvRpFipCCG%2FSas%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=154LGdkN65MRAG6HXnVp8c75MFf3k1h1JYJZeSTjwEBBG4%2BGw1HRWj8wNXvofDeK0cAQKKf2fCJTDSvgMwzojtn83HKO19sqrF0LB173yQA43hFFyHdnqH2Zchrx9Rn3AULbdKVFzE1olad9649R1v60C09j4my55V%2BANvaVWNp0QqThusDhsSdV1jXi6LZCG9wIPtvXelVN4FGKjNfZpF%2FQ6Tr208cyDe%2B6Zj2goEdWW9t%2FWGvSJNeNskz63ehPljp4%2FDSrE5k%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+              "returnFlightBookingClass": "economy",
+              "outboundCarrierCode": "LX",
+              "destination": "GVA",
+              "timeStamp": null,
+              "returnFlightNumber": "LX1080",
+              "stay": 1,
+              "locator": null,
+              "identifier": null
+            }
+          ]
+        }
+      }
+    ],
+    "prices": [
+      {
+        "passengerType": "ADT",
+        "amount": {
+          "amount": 139,
+          "currency": "EUR"
+        },
+        "total": null,
+        "fareBasis": null,
+        "segmentReferences": null,
+        "passengerReferences": null,
+        "tax": null,
+        "ancillaries": null,
+        "opc": null
+      }
+    ],
+    "totalPrice": {
+      "amount": 139,
+      "currency": "EUR"
+    },
+    "alternateJourney": null,
+    "bestAlternativePrice": {
+      "amount": 291.92,
+      "currency": "EUR"
+    },
+    "container": "VH2rqugKA1oCNdeNX3lbX9Wl6zTgL0v5+lQm56ffoh4PeyxDJpcNlxAthfWBwkMYjK59Ji2UaGKd\noXKJsorlF07COzRDVwO8yNh12gOIzptsu/JYW1Bo/tGi93ni1vQa+HhswFu8FGkW4sPln29c52ue\nv4Dpy2VJ2NNBcM8bR959oKTO8RqJQf8ueKHLNMMfgcB9HqIWgnoWi/R7hGmYN7g9wKnpaO2C0XNx\n1h6qd/b1wg7p1WiYZTH/gqrFRWR/I2NHjA56NnEsI16XsL5FTz1fgwUYwQqPw8RfNIYs/SOhmlxu\nOEyYHpIfnRmNbzc4O4589u4en9ydZ7EmmlIFI0CcHkqMdHYJ0xxSr7aJ9m2zk7nSXGfGVWsPZNoH\nA5c6mLrvcUFVDlq9ziKSOC59qQHMPZbBe7ZB/MuT2GoYY8S4gDdn85gvzHxH+WlF6y0coUdi6ldJ\nRCIP2HJRWGkoDzaJhBciHz7AYQc3VeDSZCbu+Uzp/e9KiC5gZ0nNk31uU1tCFswSo7q3K4RPCnYm\n+lfUUDlfP1ifZaHtzGn412Gbd4kXAL4YMIT58ReUutbyj9B8a5D5cR1inkpkFqrwIV2hVfemPQcb\n/gp4rk38r3KbG5GEBEcYnjj7kGYDYFvPSySCC6PUie8/YzDdfgx/HRckTpz1vedFIQ9YCwyJQhyC\nWH/ixEE2eHfiNzIMbCMlf7sZVUnLDrya3ru7Tm9Mmbb3f5xRiy3L3BD+Yrx8TJ7eNkeYrr6tqFrc\nXhDkE9WFMQkNv/ifHrWPrmRj33q6e9IxB6GNNv2S9E4GfZHGoSp93AfS6lUxmrtCXh/cq0EuY+vY\nsMD33xgkVj0BcJavXUKlABSXoqvuaPfcSDWXb8+2qyQyzjTn5JXbAE9Ph4S1mtrmigj/sX6Isvq3\nxCrFCyL54IU6LufjoxJns+NAD4hVAhPhDB89JDkuR6lhnxYpLgUdU1Xt+QtLtQ5mVY76O52Hh/1n\n7fks5fmL8DM1RnkZp4+RZGzJM+qbHC2NCaWfNncKfbTfyoBNGyx3mJ9UIB3x2lk2Nlpf7xrt+5UD\nfdJJ5cGrT5trj1TDW9FAl+lzduDegSyajuXILy2i4DrJgy7i8wET/aL+TdXFVoKZ4dYqkS2P4+VV\n9YT93sZr5B6xb4AGNRGpimsFka1UhGH2ItO9SuMMwHAAetzdvsDTyGzYYEbOPl1Et2H51OzXJfhh\nLEQQV2CakjoDt04EqWqc7/jhVh22kqsBm/fRxbshijfFbDrpzu4P9cFbWUrR3thPsRgfYuFvxBaA\nMNPmUQsQD82TBOMc9RFZCUTs63DcvipunyfxVat4Y70thPzem7bSbIlvttN2ZTi8sTJR6m+fkaqO\nKAPXnBKoRVXQ5gDzimxI+tLGVWIwRYJn+33nvWyvLVStspCRs0NL0qlOJGHdsJmp8kahKvprd0Za\n29RVqWB9gxC7ACRfqLcvukvFFc2VlGL2AXTRBjQTI4epRGPQkqT61ZtcXITuIaIXJd+tKNOOgTHq\nJpIQRq3RPlz6xOUK7fANHcwf6j4P4MYHl6K8cewrIkShHrDaNXlqUqEXkpn/IcxTOP5Uehli9gz2\nhNHiBcCe0D2nCf0YCHNp/FBBdCI5Uy+vubHKt26mnkaz4HOnXP2qqZrNp0frgCUlJ3D+l8tKVEmf\nmH71zvARqWAjG7gs2KoBxwnDWaErs+kqxzfmKMnAhOF5vtR9rb1FwvJXxDQ0mSmof5leA83eIZl6\nq0IA5eYw6IoCDFeSBekgFP6IQkBUOIdT503GbC+je8To9eK4h4b2ANYjJuAEZfuCJLv7RhXfSZXK\n/4ruTtlDqiR8qnUG7MblqB9sq3HEG/xch26fIScPsSnZuKCE+IOrS64OuaZIdytz/BvffTRhpUaV\naXNLfDiTKYee0hIX+Xf930v1ODujnT27cMG9DkheVc92Avp56kR4wBzgqPx9h6FEKWAVfai0Ddon\n9MKy6VP/615PuH30Y36YpcvALcfzWDvPJs3lUFU8WdYsQkCnJh3ya1Rg8LYLu1uCz34w10MdClxI\nG1A5c2cWc5O3j+hBi7ouasDwCpEQz3q6zi9uOK2PgqrNKZKc0sKeE1v0janAARTomIzICZLiRS+s\nyhXpKR+E88HerKyuzZpbFHS0dTqdgxv0Q7QXmSU42N55SiOEPJ6+OHMBL8V8cHp0uWjjaBsTqkGR\nmFAhvUNTPr/K1ZaQr+k6QFZwsz6vLi6hWHlTsE+fSApQORxSRENtuf0Gpc6bWdphJ1KSh1yDsIlc\nk0shw2WaU+wyXmM5nAQPc4EVUMN+OrYeOHjCIR1tVmnkusmEg87QKVEH4Ns+PWrsjRVf79dBRfDm\nEaQOHvFOZFMo",
+    "bestPrices": [
+      {
+        "destination": "GVA",
+        "bestPrice": {
+          "amount": 602.8,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "ZAD",
+        "bestPrice": {
+          "amount": 348.37,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "SPU",
+        "bestPrice": {
+          "amount": 512.66,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "LIS",
+        "bestPrice": {
+          "amount": 513.87,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "EFL",
+        "bestPrice": {
+          "amount": 408.35,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "IST",
+        "bestPrice": {
+          "amount": 463.51,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "BEG",
+        "bestPrice": {
+          "amount": 319.87,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "VRN",
+        "bestPrice": {
+          "amount": 418.8,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "CPH",
+        "bestPrice": {
+          "amount": 334.2,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "FCO",
+        "bestPrice": {
+          "amount": 313.55,
+          "currency": "EUR"
+        },
+        "refLink": null
+      },
+      {
+        "destination": "LHR",
+        "bestPrice": {
+          "amount": 291.92,
+          "currency": "EUR"
+        },
+        "refLink": null
+      }
+    ],
+    "alternateFlights": [
+      {
+        "bestPrice": {
+          "amount": 291.92,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=ru0aMZADSnXbJGg%2BAfzdqVsdAm0uprKVWzrOQiaeghynxmLfY%2FD7rXs1cQLUU6gT%2FEp9dRz1kp46QjZdUJnWYlFe0NlTEqP4Gu5PCF5g%2B7QBppbw8M3%2Fp4teB6I9%2BDdxpG%2Fd8jMfsGvCYeArOAkRltwY0Jzwn2E3dG5rLyuxM9XYOA677nLhiRBK0TA%2BGMHyagm8VtIa6iep3SrVJAMTyNTYqNkPOyyqrbT%2BwLkv1T8sCOupcqaRfslcsdbo7PjMh53ZhaFzhcY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=NWZujTmDHukGd1VhTt%2BHxjCUMGGAUwphGbOO%2F4ApJAjiw8nRiJunqyLUHgf0CeRpXiQHxhVLaWfKolZWcdRNm0UT3HMGC%2FK3teW6iiyFvwllEuBNvUbbFoO6%2BNIRQAwHC7pshkx9e2X92EqcQ4DAVJVvnZlnbLhTjh0vXl5%2BO0qwuXjiECGmAS%2FLUrQ19Rb2IyejOI3jH5GKXLNGvnQxwfjXWxPiYf04KDkIpeZLnWLKA5rSieodrDlFFNLI5uH7WlBdTyyiJTc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "LHR",
+        "flights": [
+          {
+            "price": {
+              "amount": "291.92",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH922",
+            "returnFlightNumber": "VL925"
+          },
+          {
+            "price": {
+              "amount": "299.01",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "EN8772",
+            "returnFlightNumber": "VL925"
+          },
+          {
+            "price": {
+              "amount": "330.01",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "EN8772",
+            "returnFlightNumber": "LH901"
+          },
+          {
+            "price": {
+              "amount": "330.01",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "EN8772",
+            "returnFlightNumber": "LH901"
+          },
+          {
+            "price": {
+              "amount": "330.01",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "EN8772",
+            "returnFlightNumber": "LH901"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 313.55,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=2HBq0MBNxImLLI%2BGcQkDDFyWJuAPVCBWfjMPwzHK%2BdN0lQNGYKNzmuBjc0gTip14x1AlaQLUoWGs%2FhIjKCczZhk8iY%2BCiNwUd895CDOWDZuYkj2Kz1pIYwJSUucd0uZRIVtibfMetMC8p3ar%2Fs6pgK11wjwNIB37ikdB2EcxiHC60gs6v7pBcwaqkENv8X8JN6nppdJhMZnMbl7gc94rswIKBLGii4tW%2FFJPYOFibvN%2FHuAJ7OHSOI%2Fw%2FvrF112hNCoJMslqio0%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=SlILNRjQaNhis3U2IHlOKUbumvwaPn%2Bv4XQ7b5Pn85zsY8Wup2q0QKHmQVB6N7ujq52awpbEcZ%2Feg8oVNR0IdrXbuW6xdfmVDbHrFh03m3J2%2BOT%2B6PFexY4dGyMxiqqfyfVbzgOcqk%2Fc2jeSVTybCEul%2Fb1FK9SF5QMMst7qkVl%2BMhBBq2k%2BSaP9OjpdYizzszvEkbkZJhjJpuKw9XZ3QsJ%2B84lQtp4yM93okCld3XNIs4c1v3db9dDTBz8viQaThKmIn%2F2ehHQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "FCO",
+        "flights": [
+          {
+            "price": {
+              "amount": "313.55",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "AZ403",
+            "returnFlightNumber": "AZ404"
+          },
+          {
+            "price": {
+              "amount": "313.55",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "AZ403",
+            "returnFlightNumber": "LH243"
+          },
+          {
+            "price": {
+              "amount": "313.55",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "AZ403",
+            "returnFlightNumber": "LH243"
+          },
+          {
+            "price": {
+              "amount": "378.55",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "AZ403",
+            "returnFlightNumber": "LH243"
+          },
+          {
+            "price": {
+              "amount": "378.55",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH232",
+            "returnFlightNumber": "LH243"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 319.87,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=3T%2FYGQRSu%2F8lvRPzj%2BpBW%2FWZvmUGDGQdS8noOkj0IR76Jh7L9Qqixxub1dWf6spa7YAzVu2uhdusudsSLoB0d2tZ%2Fhw5oz7QbM5daJQDgjAyJOpjn0gzRV6oIVZgyJegvaJ6hS%2Fpv3z6ILCHXsjIGQoEXStxsur8rAZQXt%2BFtxboXr9RHYIzifAnQGoGCYM5V0kDgShWSBfNtg2NUkTfwEJYDdxbQAWhi0NM67u2pmo50z7vZQ3jQ%2FBnCLNEx9BQ4brc3f6Pq%2BM%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=5PjgJ0CU2e5Mvm%2Bpob4gRtnSUn9zhBOVJqG3o5z%2FDyFnY5i0quD6Gcc6cwVa2limxRuK7oFc5WFMZ3tGt5HJvvhEHyVZ%2Fc5FSJyaOG4kWXpm19AhCw9mdJQgweZM8S2ozqusdlxzu49xOlD64GwPm4Hu9Bhgr5q%2BwUmnQohwDMnErtkB%2FymWPBLpEnZd8DKiZi0sLnl01hPmbx23iUf%2FAW9q43Roenp4XvYx0xbtaqz3yEuJsz8yy9ZlaXpeKwd8gAl%2B8rR9zqg%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "BEG",
+        "flights": [
+          {
+            "price": {
+              "amount": "319.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LH1410",
+            "returnFlightNumber": "LH1411"
+          },
+          {
+            "price": {
+              "amount": "319.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH1410",
+            "returnFlightNumber": "LH1413"
+          },
+          {
+            "price": {
+              "amount": "319.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH1410",
+            "returnFlightNumber": "LH1413"
+          },
+          {
+            "price": {
+              "amount": "319.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH1410",
+            "returnFlightNumber": "LH1415"
+          },
+          {
+            "price": {
+              "amount": "319.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH1410",
+            "returnFlightNumber": "LH1415"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 334.2,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=%2FAnEAsV%2BVGHi6N1G1i%2FoJLxDTyV4xb4YLUkIIqO9IoTtdNXnEcjbSMr%2F4uQ7BJi5gkR0JyAWhTJycbeAPsZETLFQrZesWlD9RVEOMcyHrmhzmDfQ%2BAOEQM3LP7S0n4o3T4AdnJDYD115Gyj6GD1sdB2TdnbP%2BGOZhri02gzBVyxqbxZE1LQTr0aHod4i%2Bzqi%2FHmkMQfETk04i2x%2FBdtZbeS%2BjH0k7ThRygp0%2BdA%2B74a7ZTsFRf11h4QZk1LHCdt0kiYLlRXTN88%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=9RCiDwlZfmd4ihuWTk0GIi2RSe8o9v2ZMa1pSrsNJDDSIA47NY%2BT4gpi14mNK4PHgj56Ypr4abXMj%2BJ7S4sQ6MpupmP2xAqyEQXPksTR1013iTzYpPFWEMzcxkU4xszqW2aw92DVdex25Ihu8OqGd6lo8SO3DysFJlKbacHTHFivgHdlZqKEo8iDVpOmCdYKlKM%2FkbgyhxTjvYi%2BkwNGWxYZHHc2K1XBH14g0LhbdY5uA21kjezK9y8eLUw7CeLR6qyTEs9rQtw%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "CPH",
+        "flights": [
+          {
+            "price": {
+              "amount": "334.20",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH824",
+            "returnFlightNumber": "LH833"
+          },
+          {
+            "price": {
+              "amount": "334.20",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH824",
+            "returnFlightNumber": "LH833"
+          },
+          {
+            "price": {
+              "amount": "334.20",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH824",
+            "returnFlightNumber": "LH833"
+          },
+          {
+            "price": {
+              "amount": "370.20",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LH824",
+            "returnFlightNumber": "LH833"
+          },
+          {
+            "price": {
+              "amount": "370.20",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH824",
+            "returnFlightNumber": "LH833"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 348.37,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=BC2IAZrDMyIF%2Fio%2BdQQtpZb%2BGgQab5iX75NSj7c%2Brov8L2%2FzLNfdQBPfac2XEGIbJQzzFv68tN0ltKWAQe5jKJOAGp%2BFnWXrD5%2FhuYvxQDz2KEgcdpOAQnX9xY1NM1yFXoEOY9t7rHlKm1PhsajnBdC9Io9gUUOTBFdGt8SPphx9ezqF2a9SI0mbEHDGjyb2Mx3kphJ7fposwAK%2F08%2BC24UjlaecpoVhd2VBOoUIxfbNB7wG9pZ4Wob0QLy83QMxzlBkucgkIqQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=zvpD9zWUXVyDi8pQV%2F0VlaFpgv9UvnrOIamMTzoAGGwwSx2%2BdlloCX0nFoHXct7Yke%2F3eFcqQW%2Fmd8YQTUYflzHteVufMLGWrTKkY6z1QAQvk0XvL2W4gMbcD2AbcfdTiG5oDhlpFgd3wqO%2F3FK%2BbzLDm2mkLfEOhM2rIIT6XMTvwiE9dcM8DlBWw0YDcNqYhJEFz%2BffY1ipMDW9dcUsLPJnQGrsg5XENVX2tHSCuLt1IEOjGLat29lwKj%2FKdQJotIzd%2Bq7DMyU%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "ZAD",
+        "flights": [
+          {
+            "price": {
+              "amount": "348.37",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "OS202/OS617",
+            "returnFlightNumber": "4Y911"
+          },
+          {
+            "price": {
+              "amount": "385.07",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH112/LH1720",
+            "returnFlightNumber": "4Y911"
+          },
+          {
+            "price": {
+              "amount": "393.94",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH112/LH1720",
+            "returnFlightNumber": "OS618/OS219"
+          },
+          {
+            "price": {
+              "amount": "426.07",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LH94/LH1720",
+            "returnFlightNumber": "4Y911"
+          },
+          {
+            "price": {
+              "amount": "435.63",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH94/LH1720",
+            "returnFlightNumber": "OS618/OS219"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 408.35,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=NnzFSkrSuWrWbj7OVlWYn6F8Pf695JPkHaOJaXwcwi%2FzV2M65mYdOsW%2Fe17ma0Funv8K%2BaYRPRFeIPdaae1H8GNzCj%2Fupsz4oxqpFWf4hk%2FrfQWexaaCfb5rM3pia3UXN%2FAt4YyBJcM%2FG6npiIoe6jcNa5rqiPiDz1prA3QNp5usn%2Bn4mq%2Fp%2B9s0jnQchASMl8EB%2BJDeUfZtjil5vIjfI5W3E5qzNeeR%2BL1c%2Be2fjqTtBssMm7VLvBXqnb9Bt8Rn9eiyvSWiIg8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=9qQ1%2BFUkKt%2FSlL8Y%2FVzU4oVGlivdp7pnGoyMOaup4npjdsEdU77fvIlCJeHS7EdcSmXwrwzd%2Btqi2Urkwet4wzZd6hbx7SqScRm3V2J10Q%2BOrS5JIwA8WJ8ciyvaYK22U8RLLfs1EyItdiuLTLe6Z8io25aIWnjPQcyKSpdTNvz8x%2FdRm0ZtAdxHZ9UgTw3T146fXX%2B5CXKrMnof%2Bwz5y%2BAHGld%2Fn8pHOtUQLWtTG83vLvTmy1VBW6KuvdOCOTgG2P4s%2BKP9zow%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "EFL",
+        "flights": [
+          {
+            "price": {
+              "amount": "408.35",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LH108/LH4332",
+            "returnFlightNumber": "AZ711/AZ404"
+          },
+          {
+            "price": {
+              "amount": "591.65",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "AZ7281/AZ710",
+            "returnFlightNumber": "OS854/OS211"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 418.8,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=MGze2FY%2BkCLXVzmXXq6hanUMd7EpM4K6JWWxa1jHHXVLAfIcaQvRgdnaPuS%2B10nZIPshgUZ1H4zwBqUL9MCRDdWDo1FZY5IB3tWdu84sCi0VgJzZ9GfnOiVngHvfc9f2w5fzo6BKSQB6D3CgA6vEjIT8VqwqO4iB6IHiYnidEu6%2FjEOPOsb8Ke1ch1ZxPKI7gi4oiUZ8rl2Z0TED4IZBlfXTWoPu19b4S1CpBAQL143D9j7KbsKHQsN7AW81p50avUhPE8B6G9w%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=g7Nmh2rc0wDZBi33T8mFKSMsCq8AW0RMYr3aflAqHgXdy%2F1JlfoVRiJvZQxi%2F9E8nEeZeg0SVAjK8BJBjnkN%2FfcPdVKeGAgq%2F65be5Ipdc1wPzv7ZkoIszK7KHyKIrDI%2BFH6q7yZlJfODsMIjMd2vwaISLRWwNOYpYZggrFNbfC7rMKKU1XLLRkSLRlun3e1uMMnsT6Wnz1Nehgn9j0BC9N6eeWQ6nED2XcCCAzgSqA8ykIOmFljv8b5xjf2DyOLu7XO2bHFaxY%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "VRN",
+        "flights": [
+          {
+            "price": {
+              "amount": "418.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "EN8830",
+            "returnFlightNumber": "EN8823"
+          },
+          {
+            "price": {
+              "amount": "418.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "EN8830",
+            "returnFlightNumber": "EN8823"
+          },
+          {
+            "price": {
+              "amount": "459.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "EN8830",
+            "returnFlightNumber": "EN8823"
+          },
+          {
+            "price": {
+              "amount": "459.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "EN8830",
+            "returnFlightNumber": "EN8823"
+          },
+          {
+            "price": {
+              "amount": "459.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "EN8826",
+            "returnFlightNumber": "EN8823"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 463.51,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=Vp8FITWy1BrFKKnrZAr1GU7NdO2ZCko9ym87pfT9zua%2Bwv964ag48XPopiTcYbJ3V68diHnfBW70QJ8w2%2BX2LSX%2BlKfqNU9IVwKuSs%2FFOLfG72N03flAi9aS4HTPOwSJR2JFkfKoCPo7RzPP0v1zBqFB0J6qCBs5FRCMeJNlA5IJiuenP5btvfdn2rkbhtYVO5QHDhToSr0ER%2BCTD3hgto1Kfc2IevqkvOlKtEAbOGHeIw%2FBEfAg73QdexArGaslBEA85WOMPr8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=7sAZGdG6HKXZEC0L9sOL%2F7W5VT0oShQ8nbLj6k22RjR2TiPW0cyX%2FXSss3LKcpC8Znfu6T%2Bs1oLOKzPyl72%2FZdUAx9zrUFLqdv4biXwTgf%2BCqY2%2BxEg%2Bhqve0VfREwRjbXUE%2FxUB0Eo82dQR3RQMBlM653WbCsskyFn7Myu%2BJ5LOJlhELYLLA1lZawrRGtOSxP9xWoMHFAVrJ7nd84PRYaHmrBBeN1L2mH4dK30BB8XC0aKJE3gWTQ1Z2OzKd2B5N2znvxVfCn8%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "IST",
+        "flights": [
+          {
+            "price": {
+              "amount": "463.51",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LH1298",
+            "returnFlightNumber": "LH1299"
+          },
+          {
+            "price": {
+              "amount": "511.51",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH1304",
+            "returnFlightNumber": "LH1299"
+          },
+          {
+            "price": {
+              "amount": "512.51",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH1298",
+            "returnFlightNumber": "LH1299"
+          },
+          {
+            "price": {
+              "amount": "512.51",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH1304",
+            "returnFlightNumber": "LH1301"
+          },
+          {
+            "price": {
+              "amount": "553.51",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH1300",
+            "returnFlightNumber": "LH1301"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 512.66,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=fNPaT5MBMK3QIfzmt57H8Xxp8nGLAqV9tDfRofEC%2Be0nLW%2F9TEwPouPfiC113513%2BSU62ydyotb0D8qGQqxle1YqI8mafFWat5HTyvXIEqg%2FADAAIaCkK86XySPMO%2FVa8qkBwDMyuYExf6n72fy0d%2BITkZADku1cMX%2BNecjOtIugP44ay0ynYYFo9sN9LVgLafYIaZ%2FecXjUE8m4BZaRSDRn4yenpE%2Blafl1zPgoTNb3oFIq8UDo1FTIcijuT92PTUZZIHBO5pc%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=w4VmyyL8KFTwLEiRFt%2BE70oP1e1QCbDidzaqORNs2Jf6PSiHXZaBTxfzJ3%2BiDMQO8ARLdtfYx8ORsLOwnB%2BXtCEPwy29vED1Okm7jhHk0Zrk3gC4dkuRVn9iRZgw8bVrzSt1ZSs6EhrwWioY9ydcEPf1uMG4sshF4wzfHcmy6WmKUTWO7pedld0NKGByhmJdI2v22KPnWaaDz%2BDoyV24DuqylWmPmNOGDKWQwOLD0D4iwEFM63E0WVGvDxaTH9BGhPXSBCC%2FB08%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "SPU",
+        "flights": [
+          {
+            "price": {
+              "amount": "512.66",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "4Y912",
+            "returnFlightNumber": "4Y913"
+          },
+          {
+            "price": {
+              "amount": "512.66",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "4Y912",
+            "returnFlightNumber": "4Y913"
+          },
+          {
+            "price": {
+              "amount": "512.66",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "4Y912",
+            "returnFlightNumber": "4Y913"
+          },
+          {
+            "price": {
+              "amount": "571.92",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LH108/LH1716",
+            "returnFlightNumber": "4Y913"
+          },
+          {
+            "price": {
+              "amount": "571.92",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH108/LH1716",
+            "returnFlightNumber": "4Y913"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 513.87,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=w0SwwiYSAqLhd5U0RW9Zt16DRn1BDuVx4F3H9tUenlIKFp6lLsidE6dZW5g07y4EgwvVirBuIm4Mhi8HK3TideR1%2FeUgq6Ui4wMVQ6O6AW4cSKflzpR6QRO8QNrjdyCaw31eU8kC%2B3xbjqSQzIkQtGbZ8leLTgfybTWi02mYaKRwbBgbuAES6Ga697QJToRNHjEm0R%2B7vo1No5Qp%2FIA2DIVChWKi3GeFjAgE4iadUBkwT8IqA6ho3P%2Bb7koTVa1wZz5krA34GmM%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=wBXSoQWO2kI3en5gAJ2hCA79B5sCXVrcWt25FOcp2NRuXiXzq%2FPTstPlg0Udh2kuZyTn%2FzZn6eN9NzXCK3RXJn1pjV5CxrtE5NcpdWTL20danyxGfEPESxe6QRnIGrPpOIxzmvvhZAF25t5IGbc0EqJNiRsCg5R8%2FfX5DrS6epYKQ7X6nBiEuhJXfqpsmuSU%2BikzMCi%2BZQGFNJNa8bkTZV24F8HdXZ16Usoh6vVZOxom8Y1nLQev8JUzFTi0qGucQ3ihsRIpWs0%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "LIS",
+        "flights": [
+          {
+            "price": {
+              "amount": "513.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LH1166",
+            "returnFlightNumber": "LH1171"
+          },
+          {
+            "price": {
+              "amount": "513.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH1166",
+            "returnFlightNumber": "LH1171"
+          },
+          {
+            "price": {
+              "amount": "513.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LH1166",
+            "returnFlightNumber": "LH1171"
+          },
+          {
+            "price": {
+              "amount": "513.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH1166",
+            "returnFlightNumber": "LH1171"
+          },
+          {
+            "price": {
+              "amount": "513.87",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LH1166",
+            "returnFlightNumber": "LH1171"
+          }
+        ]
+      },
+      {
+        "bestPrice": {
+          "amount": 602.8,
+          "currency": "EUR"
+        },
+        "ffpMobileWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=65dLYxMMVpGYm7jcRs9yf0rQ6ovlw%2F7pEViLa4Jqog2ePHr5x7CcybKNSN%2FuO%2FKx%2FodF%2FbNZVIEJ0FEbsq2z%2FmqyR5Cvu96KzjHSflAuX60o5ghWVWDLhttgZNYFemOe8VF%2BLvk%2BZdkIY0%2BVeW%2Brg4C1no4DRYXxAUUa%2Ba7h%2Bw2vawTJKJI1JpBBMycMytjNCgEkZaBSq3H%2FV95atTAJpw2BOYXPTZI%2BNGk4VyRPakpN%2B%2BuWOrJZgv708D34B9htHy0OL%2B3oTn4%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "ffpWebDeepLink": "https://www.lufthansa.com/deeplink/partner?partnerId=13785&Language=en&Country=de&ENC=lzEMYs5EOX49AQYEMGhy1J9eM90jwx2pqLlN41P%2FulFc4qM9RELYaV6rbhP%2FBa3XcC60SlGBhfk7f%2BixLupOzNFm%2Fb%2BMBkPv8qBCBX7QUxeskygFwyAMctwnV1RnbDaNfn6mIc0ZqOxmjUMPpsAq7uB2YW1Lv4ESYbxmpHai4EurXnIzOrXqRbfV9pDU8umhj0u7RdSwGbvIt4bosgSEV1zczBJXwQ0onTgtMxTxroDzugVy4X6Y%2BKVSN9jPt0O09b1TF58SWHQ%3D&dwmwr=utm_source%3Dlhsurprise%26utm_medium%3Dreferral%26utm_campaign%3Dlh_de_en_lhsurprise",
+        "destination": "GVA",
+        "flights": [
+          {
+            "price": {
+              "amount": "602.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LX1081",
+            "returnFlightNumber": "LX1080"
+          },
+          {
+            "price": {
+              "amount": "602.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-06",
+            "outboundFlightNumber": "LX1083",
+            "returnFlightNumber": "LX1080"
+          },
+          {
+            "price": {
+              "amount": "653.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-04",
+            "dateReturn": "2026-08-05",
+            "outboundFlightNumber": "LX1081",
+            "returnFlightNumber": "LX1080"
+          },
+          {
+            "price": {
+              "amount": "653.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-05",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LX1083",
+            "returnFlightNumber": "LX1080"
+          },
+          {
+            "price": {
+              "amount": "653.80",
+              "currency": "EUR"
+            },
+            "dateOutbound": "2026-08-06",
+            "dateReturn": "2026-08-07",
+            "outboundFlightNumber": "LX1083",
+            "returnFlightNumber": "LX1080"
+          }
+        ]
+      }
+    ]
+  }
+}
